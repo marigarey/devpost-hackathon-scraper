@@ -143,7 +143,7 @@ def parse_project(url: str, context) -> dict:
      "built-with": items if items else None,
      "video-link": video["src"] if video else None,
      "other-links": other_links if other_links else None,
-     "results": results[0] if len(results) > 1 else "Did Not Place"
+     "results": results if results else "Did Not Place"
   }
 
 def build_project_info(pages: list) -> dict:
