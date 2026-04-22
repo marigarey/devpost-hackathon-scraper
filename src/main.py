@@ -91,16 +91,18 @@ def parse_project(url: str, context) -> dict:
   title = soup.find("h1", id="app-title")
   tagline = title.find_next("p") if title else None
   
-  # get description, based on if there is a gallery at the top or not
-  start = soup.find("div", id="gallery")
-  if not start:
-    start = soup.find("div", id="app-details-left")
-
+  # get description: first content div inside #app-details-left that
+  # isn't the gallery/built-with block. Use "\n" separator so h2 section
+  # headers (Inspiration / What it does / ...) stay on their own lines!!
   description = None
-  if start:
-    for sib in start.find_all_next("div"):
-      if not sib.attrs:
-        description = sib
+  details = soup.find("div", id="app-details-left")
+  if details:
+    for child in details.find_all("div", recursive=False):
+      if child.get("id") in ("gallery", "built-with"):
+        continue
+      text = child.get_text("\n", strip=True)
+      if text:
+        description = text
         break
 
   # list of built with items
@@ -139,7 +141,7 @@ def parse_project(url: str, context) -> dict:
      "url": url,
      "title": title.get_text(strip=True) if title else None,
      "tagline": tagline.get_text(strip=True) if tagline else None,
-     "description": description.get_text(strip=True) if description else None,
+     "description": description,
      "built-with": items if items else None,
      "video-link": video["src"] if video else None,
      "other-links": other_links if other_links else None,
