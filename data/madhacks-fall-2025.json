@@ -1,0 +1,2364 @@
+{
+  "0": {
+    "url": "https://devpost.com/software/sous-chef-g36fn9",
+    "title": "Sous-Chef",
+    "tagline": "SousChef is a personalized cooking assistant that uses your fridge ingredients to create recipes and meal plans, reduce food waste, and guide you through cooking with an efficient, fun experience.",
+    "description": "Personal Preferences",
+    "built-with": [
+      "amazon-web-services",
+      "expo.io",
+      "firebase",
+      "fishaudio",
+      "flask",
+      "native",
+      "node.js",
+      "openai",
+      "react",
+      "react-native",
+      "spoonacular",
+      "typescript",
+      "yolov8"
+    ],
+    "video-link": "https://www.youtube.com/embed/jbBoIKM55DA?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/bredky/CollegeMealPrep",
+      "https://github.com/yasuhitoyen/SousChef.git"
+    ],
+    "results": "Did Not Place"
+  },
+  "1": {
+    "url": "https://devpost.com/software/gnostic-7t9hbc",
+    "title": "Gnostic",
+    "tagline": "Data storage has grown cheaper, but personal archival techniques do not reflect this.\nGnostic serves as a way to reduce unnecessary, non-private retrieval of online documents/webpages.",
+    "description": "",
+    "built-with": [
+      "css",
+      "flask",
+      "html",
+      "javascript",
+      "keybert",
+      "python",
+      "react",
+      "sqlite"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/lucasg52/gnostic-db",
+      "https://github.com/Austin-Tsai/gnostic-extension",
+      "https://github.com/Austin-Tsai/gnostic-website"
+    ],
+    "results": "Did Not Place"
+  },
+  "2": {
+    "url": "https://devpost.com/software/capcoach",
+    "title": "CapCoach",
+    "tagline": "CapCoach uses machine learning to predict your financial future 12 months out, and shows exactly what you should change to hit your financial goals, implemented right into your banking app.",
+    "description": "",
+    "built-with": [
+      "css",
+      "express.js",
+      "node.js",
+      "python",
+      "react"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/mltang2/CapCoach"
+    ],
+    "results": "Did Not Place"
+  },
+  "3": {
+    "url": "https://devpost.com/software/newscaster-ai",
+    "title": "NewsCaster.AI",
+    "tagline": "A personalized AI newscaster delivering real-time, tailored updates in a voice and style you choose.",
+    "description": "",
+    "built-with": [
+      "d-id",
+      "fishaudio",
+      "flask",
+      "newsapi",
+      "next.js",
+      "openai",
+      "tailwind"
+    ],
+    "video-link": "https://www.youtube.com/embed/QdJh5Nc1sKE?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/dillxn19/NewsCaster.ai"
+    ],
+    "results": "Did Not Place"
+  },
+  "4": {
+    "url": "https://devpost.com/software/whatsthemove-s7hn4k",
+    "title": "WhatsTheMove",
+    "tagline": "Coming to campus as out of state students, having no friends made going out difficult because we didnt know where parties were happening. WhatsTheMove connects the community to events near them.",
+    "description": "InspirationComing to campus as out of state freshman, finding parties without already having friends made going out harder.What it doesUsers can publish/post parties or other events for all people to seeHow we built itwe used react native in expo for the frontend and a node js backendChallenges we ran intobeing able to get the user's location and finding the distance between that and the event was tricky, we also had a number of issues with how the frontend and backend were communicatingAccomplishments that we're proud ofminimal bugs and there was an wasy process connecting the frontend and backend initiallyWhat we learnedusing Apis to calculate distances through a graph and how to make a software in a team.What's next for WhatsTheMoveAdding an interactive map with points to visualize events near you. Adding Profiles for users to track event posters and for security/privacy reasons. We also wanted to add a live rating system to track how popular an event may be",
+    "built-with": [
+      "expo.io",
+      "node.js"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/AidenJasonDev/WhatsTheMove",
+      "https://github.com/AidenJasonDev/WhatsTheMoveAPI",
+      "https://github.com/kuko798/user-api-hackathon"
+    ],
+    "results": "Did Not Place"
+  },
+  "5": {
+    "url": "https://devpost.com/software/madevents",
+    "title": "MadEvents",
+    "tagline": "This project is meant to input any Madison events and display them on a map. Entries are able to be filtered through the search bar, date, and category.",
+    "description": "",
+    "built-with": [
+      "duckdb",
+      "fastapi",
+      "vue.js"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/HN-dev6714/madevents"
+    ],
+    "results": "Did Not Place"
+  },
+  "6": {
+    "url": "https://devpost.com/software/sidekick-xlnger",
+    "title": "SideKick",
+    "tagline": "A sidekick that can actually use your browser like a human.It sees your screen, understands images, and then clicks, types, and navigates the web for you \u2014 completely automatically.",
+    "description": "GIFSideKick in Action",
+    "built-with": [
+      "ai",
+      "api",
+      "html5",
+      "javascript",
+      "mastra",
+      "node.js",
+      "react",
+      "typescript",
+      "web"
+    ],
+    "video-link": null,
+    "other-links": null,
+    "results": "Did Not Place"
+  },
+  "7": {
+    "url": "https://devpost.com/software/crowdmap-2tqdch",
+    "title": "CrowdMap",
+    "tagline": "Sense nearby devices by using multiple ESP-32s to triangulate distance from devices nearby",
+    "description": "InspirationPublic spaces, events, and campuses can get crowded fast but most people have no way to see density in real time. After noticing how often groups struggle to navigate crowded areas, we wanted to create a system that turns existing device signals into a live crowd-density map. No new hardware needed, just Bluetooth signals already broadcast by phones.\u2e3bWhat it doesCrowdMap is a real-time crowd-density visualizer.\nIt uses an ESP32 device to:\n    \u2022 passively scan for Bluetooth advertisements\n    \u2022 anonymize and count nearby devices\n    \u2022 estimate crowd density in real time\n    \u2022 send that data to a dashboard\n    \u2022 display a heatmap of population movement over timeUsers see:\n    \u2022 crowded vs calm areas\n    \u2022 live heat zones\n    \u2022 time-based density patterns\n    \u2022 insights on where to walk or avoid\u2e3bHow we built itHardware:\n    \u2022 ESP32-S3 dev board\n    \u2022 Onboard Bluetooth radio\n    \u2022 Optimized scan intervals\n    \u2022 Custom low-power mode logicSoftware:\n    \u2022 Python backend for ingesting device counts\n    \u2022 Realtime database \n    \u2022 JavaScript frontend for visual heatmaps\n    \u2022 BLE parsing layer to detect and classify advertisements\n    \u2022 Data smoothing + noise filtering to avoid false spikesTechnical implementation:\n    \u2022 Raw BLE advertisement scanning using bluetoothctl and BlueZ\n    \u2022 Duplication filtering to avoid double-counting\n    \u2022 Time-window averaging for stable readings\n    \u2022 ESP32 \u2192 server updates via WiFi or MQTT\n    \u2022 Web dashboard built with React + Leaflet.js heat layers\u2e3bChallenges we ran into\n    \u2022 Bluetooth controllers aggressively filter duplicate packets\n    \u2022 Phones randomize MAC addresses (we had to design around that)\n    \u2022 ESP32 scan timing required careful tuning to avoid missed packets\n    \u2022 Heatmap smoothing without losing real-time responsiveness\n    \u2022 Handling environments with very low or very high signal noise\u2e3bAccomplishments we\u2019re proud of\n    \u2022 Built a full real-time density system with no extra sensors\n    \u2022 Achieved accurate device counts with <10% error after smoothing\n    \u2022 Created a clean live heatmap UI\n    \u2022 Designed an end-to-end pipeline: scan \u2192 process \u2192 transmit \u2192 visualize\n    \u2022 Made the system privacy-safe and anonymized by design\u2e3bWhat we learned\n    \u2022 BLE advertisement behavior isn\u2019t consistent across devices\n    \u2022 ESP32\u2019s Bluetooth stack has subtle limitations\n    \u2022 Real-time visualization needs aggressive optimization\n    \u2022 Designing for privacy from the beginning simplifies everything later\u2e3bWhat\u2019s next for CrowdMap\n    \u2022 Multi-node mesh coverage (multiple ESP32 detectors)\n    \u2022 Predictive crowd modeling using time-series data\n    \u2022 Mobile app for route recommendations\n    \u2022 Integration with campus events or venue management\n    \u2022 Dynamic thresholds that auto-highlight dangerous overcrowding\u2e3bBuilt With\n    \u2022 ESP32\n    \u2022 Bluetooth Low Energy\n    \u2022 Python\n    \u2022 Node.js / Firebase\n    \u2022 React / Leaflet.js\n    \u2022 MQTT\n    \u2022 BlueZ / bluetoothctl",
+    "built-with": [
+      "c++",
+      "python"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/alexttran/CrowdSensor"
+    ],
+    "results": "Did Not Place"
+  },
+  "8": {
+    "url": "https://devpost.com/software/riskchain-j5gwvz",
+    "title": "RiskChain",
+    "tagline": "We built an AI-powered claims intelligence platform that instantly analyzes insurance claims, flags fraud, and identifies hidden fraud rings.",
+    "description": "",
+    "built-with": [
+      "3js",
+      "genai",
+      "graphtheory",
+      "javascript",
+      "node.js",
+      "python",
+      "pytorch",
+      "random-forest",
+      "react",
+      "sqlite",
+      "xgboost"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/Aravgeorge7/Madhacks2025-1"
+    ],
+    "results": "Did Not Place"
+  },
+  "9": {
+    "url": "https://devpost.com/software/madison-marketplace",
+    "title": "Madison Marketplace",
+    "tagline": "A UW\u2013Madison student marketplace for household items and furniture. Users upload photos of items, AI generates descriptions and suggested prices helping students buy furniture and more.",
+    "description": "InspirationThis website endeavours to make move-in and move-out much more seamless for UW-Madison students.What it doesIt allows UW Madison students exclusively to buy and sell furniture and other items they want to sell by uploading it to out website.How we built itWe built this using typescript and filtered our data using R.Challenges we ran intoWe had a lot of trouble receiving clean data, and a lot of errors while trying to make the site interactive, especially during the login and payment pagesAccomplishments that we're proud ofWe were able to provide analytics for price trends to give an idea of competitive pricing",
+    "built-with": [
+      "claude",
+      "cloudinary",
+      "firebase",
+      "python",
+      "r",
+      "typescript"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/vihanvdalvi/madison_marketplace.git"
+    ],
+    "results": "Did Not Place"
+  },
+  "10": {
+    "url": "https://devpost.com/software/factify-yfn86c",
+    "title": "Factify",
+    "tagline": "Trust the Truth",
+    "description": "",
+    "built-with": [
+      "chromium",
+      "css",
+      "electron",
+      "geminiadk",
+      "html",
+      "javascript",
+      "python"
+    ],
+    "video-link": "https://www.youtube.com/embed/Fg-sF2ptWUQ?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": null,
+    "results": "Did Not Place"
+  },
+  "11": {
+    "url": "https://devpost.com/software/connectu-0j4zlc",
+    "title": "ConnectU",
+    "tagline": "Turning classrooms into collaborative networks.",
+    "description": "Homepage Screenshot",
+    "built-with": [
+      "auth0",
+      "css",
+      "flask",
+      "html",
+      "ngrok",
+      "python",
+      "sqlite"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://supernaturalistic-misha-multimacular.ngrok-free.dev",
+      "https://www.canva.com/design/DAG5hzuTaPc/YMz_RxHA1cGJ313hFjI4Yw/edit?utm_content=DAG5hzuTaPc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+      "https://github.com/morganhoch/MadHacks2025Use/tree/main"
+    ],
+    "results": "Did Not Place"
+  },
+  "12": {
+    "url": "https://devpost.com/software/faunavision",
+    "title": "FaunaVision",
+    "tagline": "AI-Powered Animal Health Analytics",
+    "description": "",
+    "built-with": [
+      "flask",
+      "gemini",
+      "python",
+      "react",
+      "yolo"
+    ],
+    "video-link": "https://player.vimeo.com/video/1139830525?byline=0&portrait=0&title=0#t=",
+    "other-links": [
+      "https://github.com/aaron-dongrst/FaunaVision"
+    ],
+    "results": "Did Not Place"
+  },
+  "13": {
+    "url": "https://devpost.com/software/recipeai-q27slk",
+    "title": "RecipeAI",
+    "tagline": "Ever wanted a way to find cheap and easy ingredients for your meal ideas? Well RecipeAI is the app for you. We automatically scan nearby stores finding the cheapest options for your meal ingredients.",
+    "description": "",
+    "built-with": [
+      "flask",
+      "javascript",
+      "openai",
+      "python",
+      "react",
+      "webscraping"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/ethanda1/madhacks2025"
+    ],
+    "results": "Did Not Place"
+  },
+  "14": {
+    "url": "https://devpost.com/software/yata-violin",
+    "title": "YATA_vioLin",
+    "tagline": "We\u2019re building a deep learning + AI-powered practice coach that listens like a master, pinpoints what matters, and helps musicians improve faster \u2014 with confidence, not guesswork.",
+    "description": "our photo!",
+    "built-with": [
+      "gradio",
+      "huggingface",
+      "langchain",
+      "python",
+      "torch"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://huggingface.co/spaces/yihan2588/YATA_vioLin"
+    ],
+    "results": "Did Not Place"
+  },
+  "15": {
+    "url": "https://devpost.com/software/line-of-sight",
+    "title": "Line of Sight",
+    "tagline": "Application that helps visually impaired people navigate cities independently, expanding their freedom to explore the world.",
+    "description": "",
+    "built-with": [
+      "flutter",
+      "javascript",
+      "python"
+    ],
+    "video-link": "https://www.youtube.com/embed/NLpwdBBjKo4?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/arvindm84/Line-of-Sight"
+    ],
+    "results": "Did Not Place"
+  },
+  "16": {
+    "url": "https://devpost.com/software/wireshrimp",
+    "title": "WireShrimp",
+    "tagline": "A tool for beginners to learn the basics of network analysis by providing a simplified version of Wireshark with educational tools built in.",
+    "description": "WireShrimp Database",
+    "built-with": [
+      "click",
+      "css",
+      "python",
+      "scapy",
+      "sqlalchemy",
+      "sqlite",
+      "textual"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/PranavAvadhanam/madhacks25"
+    ],
+    "results": "Did Not Place"
+  },
+  "17": {
+    "url": "https://devpost.com/software/soundscape-6s95wo",
+    "title": "Soundscape",
+    "tagline": "SoundScape turns every drive into a personalized experience \u2014 blending real-time navigation with mood-aware, AI-curated music that adapts to weather, traffic, and your emotions.",
+    "description": "",
+    "built-with": [
+      "google-places",
+      "mapbox",
+      "react",
+      "react-native",
+      "react-navigation"
+    ],
+    "video-link": "https://www.youtube.com/embed/7M0lW8U-at8?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/Annaaa777/SoundScape"
+    ],
+    "results": "Did Not Place"
+  },
+  "18": {
+    "url": "https://devpost.com/software/sentry-13muwf",
+    "title": "Sentry",
+    "tagline": "Sentry turns your laptop into a security camera. Detects motion, sends phone alerts, and auto-records video. Check incidents from anywhere. No fees, uses your hardware.",
+    "description": "",
+    "built-with": [
+      "css",
+      "electron",
+      "html",
+      "javascript",
+      "opencv",
+      "python",
+      "rust",
+      "swift",
+      "swiftui"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/kevinbevin64/MadHacks2025-WatchDog"
+    ],
+    "results": "Did Not Place"
+  },
+  "19": {
+    "url": "https://devpost.com/software/strava-xplore",
+    "title": "Strava Route Xplore",
+    "tagline": "Strava Route Xplore reveals where people actually run and ride by turning thousands of activities into a live, interactive map of route popularity\u2014so you can discover safer, smarter paths instantly.",
+    "description": "",
+    "built-with": [
+      "fastapi",
+      "leaflet.js",
+      "openstreetmap",
+      "python",
+      "react",
+      "strava",
+      "typescript"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://mediaspace.wisc.edu/media/Demo%20Strava%20Route%20Xplore/1_tdtrztgu"
+    ],
+    "results": "Did Not Place"
+  },
+  "20": {
+    "url": "https://devpost.com/software/6-7-counter",
+    "title": "6 7 Counter",
+    "tagline": "Do you know how many times you've said 6 7? Have you ever kept track? With our new state-of-the-art tracking technology, you can now track all of your 6 7'ing right in one spot!",
+    "description": "InspirationWe were talking about the 6 7 boba social, when we realized that we 6 7 a lot. We decided to use Mediapipe to track our 6 7'ing by identifying the positions of the elbows and wrists.What it doesEvery time you 6 7, the counter is updated to reward and keep track of your very important skills. The more you 6 7, the higher you get in the 6 7 universe.How we built itWe integrated Mediapipe API and tracked the right elbow, right wrist, left elbow, left wrist, to be able to see when the wrist is above the elbow for each hand, and update the counter that way. We used a pretty standard approach to the React structure, with our CSS invoking a \"brainrot\" vibe. We also worked on a Live Share, so we have less commits in our Github Repo unfortunately.Challenges we ran intoThis was not our initial app, it was actually our third pivot. We started the competition by building a server that called Plaid API to make a Jetpack Compose (Android) app that tracked finances. After realizing this project would be incredibly hard, we switched to a web version. After realizing Plaid was not cooperating with us, we pivoted to the 6 7 counter.Accomplishments that we're proud ofWe're proud of the work and effort we made across the entire journey, and the amount of 6 7's we had to execute in order to get the product up and running. We were able to make something out of nothing, and persevere through tough challenges. We also learned new technologies and expanded our horizon.What we learnedEveryone got to learn HTML, CSS, JavaScript, React and web API's in order to be able to code this web application. We learned new skills, expanded our tech stack horizon by also learning about FastAPI + Railway integrations with Python in our failed app, and we just had fun.What's next for 6 7 CounterWe will add more counters and functionalities to making it into a mobile app while fully monitizing our application.",
+    "built-with": [
+      "mediapipe",
+      "react"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://67counter.vercel.app/",
+      "https://github.com/mannygonzalezj7/67counter"
+    ],
+    "results": "Did Not Place"
+  },
+  "21": {
+    "url": "https://devpost.com/software/unload-ey9bwn",
+    "title": "Unload",
+    "tagline": "Unload transforms your raw thoughts into positive reframes and weekly insights, giving you clarity and providing therapists richer context. It doesn\u2019t just track mental health, it elevates it.",
+    "description": "About Unload: Learn more about what we do",
+    "built-with": [
+      "expo.io",
+      "firebase",
+      "firestore",
+      "ios",
+      "javascript",
+      "openai",
+      "react-native"
+    ],
+    "video-link": "https://www.youtube.com/embed/mN0FLjZuvPg?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": null,
+    "results": "Did Not Place"
+  },
+  "22": {
+    "url": "https://devpost.com/software/lexon",
+    "title": "Lexon",
+    "tagline": "Instead of providing a single answer, LexonAI reveals the reasons behind it by showing how the sources, concepts, and evidence connect to create the final answer. Neural Map created for connections.",
+    "description": "This project was inspired by issues I was hearing in the Madison area.We wanted a search experience that:\n    \u2022 Doesn\u2019t hide reasoning behind a paragraph of text\n    \u2022 Shows how AI models arrive at what they say\n    \u2022 Helps users trust \u2014 or question \u2014 the connections being made\nWe were inspired by how knowledge really works: not linearly, but as a network of ideas, sources, and inferences. So we decided to make that visible.",
+    "built-with": [
+      "typescript"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/quinnhasse/MadHacks2025"
+    ],
+    "results": "Did Not Place"
+  },
+  "23": {
+    "url": "https://devpost.com/software/it-s-movie-night",
+    "title": "It's Movie Night",
+    "tagline": "A web app designed for indecisive groups to choose what to watch for Movie Night. Create rooms, vote on genres, and find best matches based on how many people want which category!",
+    "description": "",
+    "built-with": [
+      "css",
+      "firebase",
+      "html",
+      "javascript",
+      "tmdb-api"
+    ],
+    "video-link": "https://www.youtube.com/embed/OalIMPlq4PM?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/efe-ozalp/movienight"
+    ],
+    "results": "Did Not Place"
+  },
+  "24": {
+    "url": "https://devpost.com/software/devspace-pw8juc",
+    "title": "DevSpace",
+    "tagline": "Real-time code collaboration and PR's from AI engineer agents that actually understand, edit, and help scale your codebase.",
+    "description": "Github Connection",
+    "built-with": [
+      "api",
+      "fishaudio",
+      "github",
+      "next.js",
+      "react",
+      "readyplayer",
+      "supabase",
+      "windmil"
+    ],
+    "video-link": "https://www.youtube.com/embed/cH8n2JilGTc?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/roygalCS/madhacks2025submissiondevspace"
+    ],
+    "results": "Did Not Place"
+  },
+  "25": {
+    "url": "https://devpost.com/software/sentinel-452sbn",
+    "title": "Sentinel",
+    "tagline": "Your on-call engineer that never sleeps.",
+    "description": "Landing Page",
+    "built-with": [
+      "chatgpt",
+      "claude",
+      "fastapi",
+      "github",
+      "langgraph",
+      "pinecone",
+      "python",
+      "react",
+      "slack",
+      "sqlite",
+      "websocket"
+    ],
+    "video-link": "https://www.youtube.com/embed/cx-cUToWZAc?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/Sanyam-G/Sentinell/"
+    ],
+    "results": "Did Not Place"
+  },
+  "26": {
+    "url": "https://devpost.com/software/blueguide",
+    "title": "BlueGuide",
+    "tagline": "BlueGuide is your personalized tour guide for any city on the planet!",
+    "description": "BlueGuide Banner",
+    "built-with": [
+      "fish",
+      "openai",
+      "python",
+      "swift"
+    ],
+    "video-link": "https://www.youtube.com/embed/HZcYQM3k_SM?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": null,
+    "results": "Did Not Place"
+  },
+  "27": {
+    "url": "https://devpost.com/software/bucky-s-buzzer-beater",
+    "title": "Bucky's Buzzer Beater",
+    "tagline": "Jeopardy for all! Use your phone to buzz in and outsmart your friends.",
+    "description": "",
+    "built-with": [
+      "axum",
+      "node.js",
+      "react",
+      "rust",
+      "websockets"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://jeop.tsuni.dev",
+      "https://github.com/the-snesler/madhacks2025",
+      "https://docs.google.com/presentation/d/1SVhWpcOyRjFFea1hRIhzOuWo2UJprI4yJhgc-eOs9fE/edit?usp=sharing"
+    ],
+    "results": "Did Not Place"
+  },
+  "28": {
+    "url": "https://devpost.com/software/networknudge",
+    "title": "NetworkNudge",
+    "tagline": "NetworkNudge visualizes real-time network paths, signal quality, and routing trade-offs, turning complex telecom data into clear, explorable graphs for both engineers and customers.",
+    "description": "sample_fiber_optic_route_plotted_livetime",
+    "built-with": [
+      "flask",
+      "geopandas",
+      "leaflet.js",
+      "next.js",
+      "pandas",
+      "python"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/ahmedismail06/madhacks2025"
+    ],
+    "results": "Did Not Place"
+  },
+  "29": {
+    "url": "https://devpost.com/software/gametractor",
+    "title": "GameTractor",
+    "tagline": "A translator for games in foreign languages with interactive text and voices!",
+    "description": "",
+    "built-with": [
+      "deepl",
+      "fishaudio",
+      "pyside",
+      "python",
+      "tensorflow",
+      "tesseract",
+      "tkinter"
+    ],
+    "video-link": "https://www.youtube.com/embed/yd_2ENRXdH8?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/junw000/Madhacks-repo"
+    ],
+    "results": "Did Not Place"
+  },
+  "30": {
+    "url": "https://devpost.com/software/clear-meet",
+    "title": "ClearMeet",
+    "tagline": "ClearMeet is a business meeting assistant tool that gives users a version of their (perhaps) verbose PowerPoints/documentations but with important parts highlighted and annotated based on discussions.",
+    "description": "",
+    "built-with": [
+      "gemini",
+      "google",
+      "node.js",
+      "springboot"
+    ],
+    "video-link": "https://www.youtube.com/embed/-zpmHHs3wF4?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/erkhemtugsB/Madhacks-erik/"
+    ],
+    "results": "Did Not Place"
+  },
+  "31": {
+    "url": "https://devpost.com/software/mindfulcompawnion",
+    "title": "MindfulCompawnion",
+    "tagline": "A mental-health support app built on the powerful human/dog connection",
+    "description": "InspirationBefore developing this project, I started by asking my family what real problems they faced, hoping to design something that could genuinely help. One concern that came up is that my younger sister goes to the dog park alone\u2014sometimes at night. There are no lights or cameras there, and my mom often worries about her safety. I first considered creating a solution similar toSafeWalk, where users could notify others when they plan to visit a dog park so people could potentially attend the dog park in groups, thereby creating a safer and more social environment for both people and their pets.\nHowever, as I reflected more deeply, I realized my mom\u2019s concern for my sister\u2019s safety isn\u2019t only about physical danger\u2014it\u2019s rooted in a much deeper loss. Not long ago we lost my youngest sibling, Graciella, who was only 14 years old, to suicide. That experience has irrevocably changed all of us, and it has altered the way I think about safety and well-being. It shifted my focus from simply protecting people in physical spaces to supporting emotional and mental health in meaningful ways.\nAlthough there are many mental health apps available, many feel superficial and do not seem to connect with the user in any kind of impactful way and are not truly transformative. I wanted to create something more intentional, something that promotes real emotional connection and healing. With this project, I also saw an opportunity to push myself technically, particularly by building a full web application, which I have never done before, while learning more advanced JavaScript. So, thinking of the encouragement I have had from a couple of professors I decided to push myself to try new coding while also exploring how AI tools could support me in my learning process while working on a project that really, at the heart, honors my little sister Graciella, and matters very much to me personally.What it doesAt the moment the website uses your location and shows local dog parks, as well as people who have signed in at those dog parks. In addition it provides mental and physical health facts & tips, \u201cWag-Worthy Wisdom\u201d, from peer reviewed scientific studies, based on the human/dog connection. Those facts & tips will all come accompanied with a link, so that when a user taps on the fact/tip they can read the article or study from which the information is being drawn. There is also a list of citations under the FAQ section for any user who would like to follow up and gain more insight from a particular fact/tip.How we built itI started with a framework of a previous attempt to host a website that went poorly, and finished getting that to correctly be hosted on github, then converted that website into Mindful CompPAWnionship. Then read about how to get GPS locations as a website, and implemented that. Then shifted focus to figuring out how to have multiple users with unique sign-ins to connect to a database to use for personalization.Challenges we ran intoThe initial website creation went smoothly, and I was able to figure out how I was incorrectly getting the user\u2019s GPS location. Once implementing a server to host the database for users things have gone poorly.Accomplishments that we're proud ofFunctionally hosted website that gets GPS location and populates map with dog parksWhat we learnedHow to get GPS, how to publish API\u2019s on render.com, how leaflet works generally, how to make a user sign-in frameworkWhat's next for Mindful ComPAWnionshipThe purpose of this app is to create support for people\u2019s mental health and well-being through meaningful connections with their dog (or dogs with whom they interact). Therefore in future the app would recommend activities which could be engaged in with a user\u2019s own dog, or the dog with which the user would be interacting. There are a great number of activities that can be recommended - from sitting on the couch, reading, to art, to yoga, to meditation, to knitting, to walking, to biking, to swimming, to boating, to sledding, etc with a dog. There will be shorter and longer activities as well as simpler or more complex activities to enable a broad range of use.\nThe app will learn (through established measurable metrics) from each user\u2019s emotional patterns through simple mood and energy inputs. Users will be able to log how they feel (and their energy levels) using multiple formats\u2014such as colors, numeric scales, or expressive icons (happy, sad, frustrated, excited, etc.)\u2014so they can communicate their emotional and physical state in a way that feels natural. The app will also track the dog\u2019s mood and energy levels using similar metrics as entered by the user. The user will also, using measurable metrics, record how they and the dog feel after participating in recommended activities.\nOver time, the system will identify trends based on time of day, season, monthly cycles, and historical activity outcomes. Using this data, the app will personalize and adapt activity recommendations for the human and their dog\u2014suggesting what is most likely to help based on what has previously worked at similar emotional or energy states. \nIn addition, this app will have a bulletin board for places like dog parks and restaurants/cafes that allow dogs for people to post about meet-ups. There will be links to local groups/doctors who support and/or provide dog therapy for individuals. In addition, there will be a page set aside for books and podcasts that support mental health, specifically in relation to the human/dog connection.",
+    "built-with": [
+      "claud",
+      "cron",
+      "github",
+      "github-is-hosting-html-files",
+      "github-jobs",
+      "html",
+      "javascript",
+      "pyth",
+      "python-scripts",
+      "scikit-learn"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://jrcaulkins.github.io/Compawnion/#",
+      "https://github.com/JRCaulkins/Compawnion"
+    ],
+    "results": "Did Not Place"
+  },
+  "32": {
+    "url": "https://devpost.com/software/quiz-291s8d",
+    "title": "Quiz",
+    "tagline": "Our project takes any lecture transcript and instantly generates personalized, accurate quizzes using an AI-powered RAG pipeline.",
+    "description": "",
+    "built-with": [
+      "amazon-web-services",
+      "pinecone",
+      "python",
+      "react",
+      "restfulapi",
+      "typescript"
+    ],
+    "video-link": "https://www.youtube.com/embed/SnzQlp3N5AY?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/yugmarwaha/quizmo"
+    ],
+    "results": "Did Not Place"
+  },
+  "33": {
+    "url": "https://devpost.com/software/ez-present",
+    "title": "EZ-Present",
+    "tagline": "Generate presentations with your own voice.",
+    "description": "",
+    "built-with": [
+      "fishaudio",
+      "mongodb",
+      "next.js"
+    ],
+    "video-link": "https://www.youtube.com/embed/pamsZmQInOA?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": null,
+    "results": "Did Not Place"
+  },
+  "34": {
+    "url": "https://devpost.com/software/lawly-ai",
+    "title": "Lawly AI",
+    "tagline": "Lawly AI is your one-stop shop for legal help. Describe your issue and our AI finds qualified lawyers, contacts them, gathers real quotes, negotiates terms, and ranks your best options.",
+    "description": "",
+    "built-with": [
+      "amazon-web-services",
+      "apollo",
+      "apollo.io",
+      "bm25",
+      "fast-api",
+      "gemini",
+      "lambda",
+      "langgraph",
+      "langraph",
+      "mysql",
+      "nextjs",
+      "open-ai",
+      "pandas",
+      "postgresql",
+      "s3",
+      "supabase"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/sohamkundu27/LawlyAI"
+    ],
+    "results": "Did Not Place"
+  },
+  "35": {
+    "url": "https://devpost.com/software/a-meal",
+    "title": "A-Meal",
+    "tagline": "Everyone's been hungry before, but can be tight. That's where A-Meal comes in. With A-Meal, you get a great selection of 8 whole meals. Steps and ingredients BUILT-IN our power system.",
+    "description": "One of the various 7+ meals you can have",
+    "built-with": [
+      "css",
+      "express.js",
+      "html",
+      "javascript",
+      "react"
+    ],
+    "video-link": "https://www.youtube.com/embed/-D4RcqZmLjw?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/isabellekx/MadHacks"
+    ],
+    "results": "Did Not Place"
+  },
+  "36": {
+    "url": "https://devpost.com/software/choonsik-madhack",
+    "title": "Choonsik-madhack",
+    "tagline": "Financial-Hack\nTax-return",
+    "description": "",
+    "built-with": [
+      "firebase",
+      "google-cloud-bucket",
+      "javascript",
+      "react",
+      "vite"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/mushimuro/Choonsik-madhack"
+    ],
+    "results": "Did Not Place"
+  },
+  "37": {
+    "url": "https://devpost.com/software/ripple-0k5wz9",
+    "title": "Ripple",
+    "tagline": "Ripple helps you instantly discover and connect with people around you at events. Real\u2011time profiles, zero chance of awkwardness.\nYour Networking, In Motion.",
+    "description": "Map",
+    "built-with": [
+      "css",
+      "express.js",
+      "firebase",
+      "html",
+      "javascript",
+      "node.js",
+      "react",
+      "typescript"
+    ],
+    "video-link": "https://www.youtube.com/embed/-iuiOsr5C-I?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/PrishaTHE-PRO/MadHacks-2025"
+    ],
+    "results": "Did Not Place"
+  },
+  "38": {
+    "url": "https://devpost.com/software/hivance",
+    "title": "Hivance",
+    "tagline": "Hivance is an AI powered hedgefund analyst using recent news to make the stock market understandable for everyone.",
+    "description": "",
+    "built-with": [
+      "alphavantageapi",
+      "css",
+      "financialmodelingprep(fmp)api",
+      "finnhubapi",
+      "geminiapi",
+      "google-cloud",
+      "html",
+      "langgraph",
+      "python",
+      "react.js",
+      "twelvedataapi",
+      "typescript",
+      "vite.js"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/aditya1rawat/ai-portfolio-manager"
+    ],
+    "results": "Did Not Place"
+  },
+  "39": {
+    "url": "https://devpost.com/software/replae",
+    "title": "Replae",
+    "tagline": "Your Mind, Replayed",
+    "description": "",
+    "built-with": [
+      "ai",
+      "anthropic",
+      "api",
+      "assistant:",
+      "audio",
+      "backend:",
+      "claude",
+      "css",
+      "fish",
+      "flask",
+      "frontend:",
+      "gpt-4.1",
+      "icons:",
+      "lucide",
+      "ocr:",
+      "openai",
+      "python)",
+      "react",
+      "styling:",
+      "tailwind",
+      "text-to-speech:",
+      "typescript",
+      "vision",
+      "vite"
+    ],
+    "video-link": "https://www.youtube.com/embed/6FMhap5IxSs?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/hungrydoor14/madhacks2025",
+      "https://www.canva.com/design/DAG5d1-GNkQ/d7DvHvqSsBizbJoN_RJTeg/view?utm_content=DAG5d1-GNkQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8c3f113c38"
+    ],
+    "results": "Did Not Place"
+  },
+  "40": {
+    "url": "https://devpost.com/software/squadplanner",
+    "title": "SquadPlanner",
+    "tagline": "Stop fighting over budgets and itineraries. Let AI find and plan the perfect trip that makes everyone happy, balancing budgets and interests seamlessly",
+    "description": "",
+    "built-with": [
+      "flask",
+      "gemini",
+      "mongodb",
+      "python",
+      "react"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/manojarulmurugan/AI-Squad-Planner"
+    ],
+    "results": "Did Not Place"
+  },
+  "41": {
+    "url": "https://devpost.com/software/phishnet-tsrpqm",
+    "title": "PhishNet",
+    "tagline": "Protecting Voice Identity with an Invisible Audio Fingerprint",
+    "description": "",
+    "built-with": [
+      "fastapi",
+      "fishaudio",
+      "librosa",
+      "python",
+      "react",
+      "scipy",
+      "vite"
+    ],
+    "video-link": "https://www.youtube.com/embed/z4z3FnH0w6E?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/CalvinPrajogo/madhacks2025"
+    ],
+    "results": "Did Not Place"
+  },
+  "42": {
+    "url": "https://devpost.com/software/callshield",
+    "title": "CallShield",
+    "tagline": "Create Your Unique Vocalprint",
+    "description": "",
+    "built-with": [
+      "aurigin.ai",
+      "fastapi",
+      "fish.audio",
+      "framer",
+      "gemini",
+      "lucide",
+      "next.js",
+      "numpy",
+      "python",
+      "pytorch",
+      "react",
+      "shadcn",
+      "speechbrain",
+      "supabase",
+      "tailwind",
+      "typescript",
+      "uvicorn",
+      "websockets"
+    ],
+    "video-link": "https://www.youtube.com/embed/EsmYJJ3UmG0?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/shreyk2/CallShield"
+    ],
+    "results": "Did Not Place"
+  },
+  "43": {
+    "url": "https://devpost.com/software/nichecard",
+    "title": "NicheCard",
+    "tagline": "NicheCard is a fullstack AI tool that does more than compare credit cards. It analyzes and breaks down the full range of rewards and benefits of the users collection of cards",
+    "description": "InspirationAs someone with multiple credit cards its hard to determine which card I should use and where. \ud83d\udcb3\ud83d\udcb3  I have also always wanted to know what reward areas my cards were covering and what cards I could get to improve my rewards coverage. That's why we made NicheCard, to find that niche credit card for your collection to help users earn more rewards and save more money as a sort of credit card arbitrage.What it doesIt aggregates data on top credit cards and allows users to add credit cards to their collection and get a full ai breakdown/overview with recommendations on how/when to use each card and what specific cards the user should get next based on each cards reward systems. \ud83d\udd25\ud83d\udd25\ud83d\udd25How we built itWe built the NicheCard website primarily using Javascript and React. Our NicheAI Analyzer is built using Node.js and utilizes ChatGPT 5 nano LLM to make card comparison breakdowns for the user. We also utilized an opensource api to collect data on 170+ of the worlds most popular credit cards.Why the name?We like to think we're niche, plus we like matcha. \ud83c\udf75\ud83c\udf75\ud83c\udf75Challenges we ran intoOur main challenge was debugging calls to the two different APIs we utilized for the project. \ud83e\udd2c\ud83e\udd2c We also had to learn a lot about frontend development during the project, especially the React framework. \ud83e\udd15\ud83e\udee9\ud83e\udee9Accomplishments that we're proud ofWe are proud of the final product and feel accomplished that we were able to deploy it publicly for others to access instead of just running it locally. For a team of two who went in with pretty low expectations the project turned out pretty good. \u2764\ufe0f\u200d\ud83e\ude79\u2764\ufe0f\u200d\ud83e\ude79 We also had a lot of fun. \u2764\ufe0f\u200d\ud83d\udd25What we learnedWe learned a lot about frontend development with React and Javascript. \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d We also learned how to implement an LLM AI assistant into a project.What's next for NicheCardThere were a bunch of features we wanted to add but didn't get to such as:\n-Head to Head comparisons\n-AI overviews for each card\n-Survey Preferences/RecommendationsAlso thank you to the organizers who hosted a fun event. \ud83e\udd79\ud83e\udd79",
+    "built-with": [
+      "ai",
+      "javascript",
+      "node.js",
+      "photoshop",
+      "react",
+      "render",
+      "rest",
+      "vscode",
+      "webpack"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://niche-card-front.onrender.com/",
+      "https://github.com/parkerjk/niche-card"
+    ],
+    "results": "Did Not Place"
+  },
+  "44": {
+    "url": "https://devpost.com/software/badger-budget-a-financial-literacy-game",
+    "title": "Badger Budget - A Financial Literacy Game",
+    "tagline": "As a UW\u2013Madison student, have you struggled with personal finance? Badger Budget lets you learn smart money habits without spending your hard earned cash. It makes learning fun!",
+    "description": "Game Over! Although the player stayed afloat financially, their quality of life dropped too low. Balance is important!",
+    "built-with": [
+      "css",
+      "html",
+      "javascript"
+    ],
+    "video-link": null,
+    "other-links": null,
+    "results": "Did Not Place"
+  },
+  "45": {
+    "url": "https://devpost.com/software/madlectures",
+    "title": "MadLectures",
+    "tagline": "Transforming bad lectures into great ones, in real-time.",
+    "description": "",
+    "built-with": [
+      "javascript",
+      "node.js",
+      "react",
+      "tailwind",
+      "typescript"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://madhacks.nikschaefer.com/",
+      "https://github.com/NikSchaefer/MadHacks-2025"
+    ],
+    "results": "Did Not Place"
+  },
+  "46": {
+    "url": "https://devpost.com/software/pulse-hrc34x",
+    "title": "Pulse",
+    "tagline": "Pulse is a smart personal finance assistant that analyzes both behavior and motivation to transform raw financial data into personalized guidance, helping users build healthier financial habits.",
+    "description": "Pulse - Your Financial Heartbeat, DecodedIntroductionPulse is a smart personal finance assistant that not only analyzes what you spend, but also why you spend. Instead of treating every transaction as a number, Pulse captures the context behind your financial decisions - whether it\u2019s stress shopping, celebration spending, routine necessities, or long-term planning.By understanding both behavior and motivation, Pulse transforms raw financial data into meaningful, personalized guidance, helping users build healthier and more sustainable financial habits.MotivationTraditional & modern budgeting apps fall short in two ways: (1)Transactional- focusing on \"how much\" is spent but not \"why\" it is spent; (2)Generic Advice- everyone has the same common budgeting rules.However, spending is often emotional. College students may eat out frequently due to academic stress, or reward themselves with a Starbucks drink after an achievement. Without acknowledging these factors, budgeting can feel restrictive, guilt-driven, and ultimately unsustainable.Additionally, young users prefer talking over manually recording expenses. To support this behavior, Pulse allows users to speak their spending decisions aloud. The assistant transcribes the input, detects emotional tone, and tracks the reasoning behind each purchase. Moreover, the assistant can give the users weekly summaries, acting as either a supportive friend, a stern coach, or any personality figure of their ideal assistants.Pulse's goal is simple:Help users understand the heartbeat behind their finances, not just the numbers.Tech Stack OverviewBackendNodeJS Server: The server receives users' audio speech, store transactions data in localStorage, and orchestrating the speech/text processing pipeline.Claude API: Generate the summary based on the processed transactions data and the user financial goals.Fish Audio: Processing text-to-speech scripts and speech-to-text audios.FrontendReact + Vite: A simple beautiful frontend",
+    "built-with": [
+      "anthropic",
+      "fishaudio",
+      "javascript",
+      "mongodb",
+      "node.js",
+      "react",
+      "vite"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/harshnar192/MADHACKS-25"
+    ],
+    "results": "Did Not Place"
+  },
+  "47": {
+    "url": "https://devpost.com/software/supersurf",
+    "title": "Supersurf",
+    "tagline": "Surf the web at the speed of sound.",
+    "description": "Browser using only Supersurf",
+    "built-with": [
+      "css",
+      "fish.audio",
+      "gemini",
+      "html",
+      "node.js"
+    ],
+    "video-link": "https://www.youtube.com/embed/SXHECqYTnCY?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/T4R1N/madhacks-2025"
+    ],
+    "results": "Did Not Place"
+  },
+  "48": {
+    "url": "https://devpost.com/software/whats-the-move",
+    "title": "Whats the Move",
+    "tagline": "You land the J*b, we'll do the rest!",
+    "description": "InspirationWe realized that as college students, landing an internship is always exciting, but one stressful aspect that comes with this is the process of moving, whether it is during the school year or the summer. That is why we created What's the Move. This application together provides a fast, \u201csnapshot\u201d of what relocating for a given job might look like, costs, distance, housing, and potential red flags, all in one place. We wanted this to be an easy-to-use tool where we would be the blueprint for a person's move, and show them roughly what the move will cost, and possibly look like.What we learnedWith this application, one thing we learned more about is how to properly receive data. We also learned how to work with git commands, so everyone was using the right and common practices throughout our workflow.Code-wise, we definitely learned more about LLM usage and how we could utilize it to get information from a specific link. We figured that because LLMs are fundamentally good at taking words and predicting meanings, we could use them for subjective, non-programmable tasks. Another thing we learned about in the backend is how to use custom Google search engines to go through a CSV file and populate rows that we wanted to append for apartment searching, which gave us valid links for each apartment. Front-end-wise, we all learned how to create a custom bit string in the backend URL, where the front-end would fetch this URL to gather its information to output using a Rest API and fly.io. This process was unique and something we didn't know about before the hackathon, so it was worth the time to learn and utilize.How we Built \"Whats the Move\"We built What\u2019s The Move as a React/Vite single-page app talking to a FastAPI backend over simple HTTP endpoints. The backend\u2019s main file, backend/main_service.py, exposes /whatsthemove/... to build a full move plan and /job-search to analyze a job posting URL. The move endpoint parses origin, destination, dates, transport/housing flags, and budget into a MoveRequest, then calls submodules: a job inspector (fetches the job page, cleans it with BeautifulSoup, sends it to the OpenAI API, and returns structured JSON), a housing selector (reads an apartments CSV and returns up to 10 options under budget), and transportation estimators. For transportation, we use a flight distance helper (with airports.csv + geopy to compute great-circle distance between airports) plus Fly.io-friendly static estimators for U-Haul, moving help, bus, rental car, and own car. The backend returns a single JSON with job_summary, request, transportation, and housing, and the frontend encodes user inputs into URLs/flags, calls these endpoints, and renders the response into cards for job info, transport options, and apartments.Our Biggest ChallengesOur main challenge throughout the entire hackathon was organization. Although we did a great job assigning roles/tasks to each other and getting them done, we tend to see that we would always trip up on each other, which led to longer and longer time spent on deployment. We were not very organized with each other and lacked communication in the aspect of code. We felt as if sometimes we didn't know what someone else was doing.The other main issue was deployment, as there was a little knowledge gap. We did a great job connecting all the backend logic and all the frontend logic together. The place we struggled with the most was connecting the backend and frontend. This was a clear knowledge gap on our part, but we showed true dedication as we have our project up and running.",
+    "built-with": [
+      "beautiful-soup",
+      "csv",
+      "fastapi",
+      "fly.io",
+      "geopy",
+      "google-search-engine",
+      "javascript",
+      "open-source-leaflet",
+      "openai-sdk",
+      "python",
+      "react",
+      "rentcast-api",
+      "requests",
+      "restapi",
+      "uvicorn",
+      "vite"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/aamank11/WhatsTheMove-Final-MadHacks"
+    ],
+    "results": "Did Not Place"
+  },
+  "49": {
+    "url": "https://devpost.com/software/c4prompt",
+    "title": "C4Prompt",
+    "tagline": "\"Compress. Context. Cut. Cost\"\nAn AI prompt optimizer that intelligently compresses user inputs before they reach LLMs cutting tokens, API costs, and Carbon emissions without sacrificing clarity.",
+    "description": "Overall Statistics per User",
+    "built-with": [
+      "apis",
+      "css",
+      "html",
+      "python",
+      "tf-idf",
+      "transformers"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/pallavisharma6802/C4Prompt"
+    ],
+    "results": "Did Not Place"
+  },
+  "50": {
+    "url": "https://devpost.com/software/badger-board",
+    "title": "Badger Board",
+    "tagline": "GPS-gated pixel canvas where students create collaborative art only when physically in campus buildings. WebSocket networks sync drawings, transforming location data into creative communities.",
+    "description": "InspirationWhen Reddit launched r/place, millions collaborated on a single pixel canvas, creating something beautiful through collective creativity. We wondered: what if we could bring that magic to UW Madison's campus, but with a focus on the local community? What if location itself became part of the creative experience?TDS challenged asked us to leverage networks in innovative ways. We saw an opportunity to combine GPS networks, WebSocket protocols, and PostGIS spatial databases to create something unique\u2014a collaborative canvas that only exists when you're physically present in a building. BadgerBoard transforms campus buildings into creative communities, giving each space its own digital identity.What it doesBadgerBoard is a location-gated collaborative pixel art platform for UW Madison. Here's how it works:GPS Verification: When you open BadgerBoard, it uses GPS networks to detect which campus building you're inBuilding-Specific Canvas: Each building has its own 100\u00d7100 pixel canvas\u2014Morgridge Hall students draw on Morgridge's board, Memorial Library visitors create on the Library's canvas, etc...Real-Time Collaboration: Changes sync instantly via WebSocket networks\u2014see other students drawing in real-timePersistent Art: Every pixel is stored in our database, so the artwork evolves over days and weeksHow we built itFrontend (React & Bootstrap)\nWith a consistent frosted glass aesthetic, we created a landing page and color selector component to bring functionality to the 100x100 pixel canvas. Additionally, we implemented an admin panel to handle adding new buildings to the database to expand the reach of Badger Board.Backend (Node.js, Express, & WebSocket)\nAuthentication Service: REST endpoint that validates GPS coordinates against building boundaries using PostGIS ST_Intersects\nWebSocket Server: Real-time pixel updates broadcasted to all connected clients in the same building\nDatabase Layer: PostgreSQL with PostGIS extension storing building polygons and pixel data as rastersChallenges we ran intoInitially, our frontend and backend spoke different languages. That is, our frontend sent hex colors while our backend expected rgb values. Additionally, proper communication to our API to maintain seamless canvas display on multiple devices proved to be a difficult challenge for us to overcome.Accomplishments that we're proud ofPolished UICreative use of gps networks to connect usersWebSocket architecture being able to handle multiple concurrent artistsScalable architecture with possibilities to add any new campus buildingsWhat we learnedWe learned a lot about the frontend & backend workflow found in modern projects, and we learned a lot about implementing databases, with levels of complexity between the data and user such that it is difficult to breach.What's next for Badger BoardWe would love to add the rest of the UW-Madison campus buildings other than the small set we have currently. Additionally, we would like to revisit possibly adding cooldown timers to users to limit spam. Lastly, making a full mobile integration would not only make our app more accessible to more users, but also vastly improve gps accuracy, as laptops tend to not be very precise.",
+    "built-with": [
+      "bootstrap",
+      "express.js",
+      "node.js",
+      "python",
+      "react",
+      "redis",
+      "vercel",
+      "websocket"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://mad-hacks-fall-2025.vercel.app/"
+    ],
+    "results": "Did Not Place"
+  },
+  "51": {
+    "url": "https://devpost.com/software/bitworld",
+    "title": "BitWorld",
+    "tagline": "Making Bitcoin payments as easy, fast, and reliable as a tap of a card - anywhere, for everyone.",
+    "description": "",
+    "built-with": [
+      "node.js",
+      "postgresql",
+      "react",
+      "typescript"
+    ],
+    "video-link": "https://www.youtube.com/embed/UJ6xad65fYE?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/ojalpgit/final"
+    ],
+    "results": "Did Not Place"
+  },
+  "52": {
+    "url": "https://devpost.com/software/nofi-xicdg0",
+    "title": "NoFi",
+    "tagline": "When the towers fall and the fiber snaps, we rebuild the network on sound waves.",
+    "description": "",
+    "built-with": [
+      "machine-learning",
+      "node.js",
+      "react",
+      "typescript",
+      "versal"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://no-fi.vercel.app/",
+      "https://github.com/KarthikRed2000/no-fi/tree/main"
+    ],
+    "results": "Did Not Place"
+  },
+  "53": {
+    "url": "https://devpost.com/software/pestisynth",
+    "title": "PestiSynth",
+    "tagline": "Transforming pesticide discovery with ML-driven protein\u2013ligand affinity prediction and safety screening.",
+    "description": "architecture workflow",
+    "built-with": [
+      "cors",
+      "fastapi",
+      "html/css",
+      "javascript",
+      "machine-learning",
+      "numpy",
+      "product",
+      "pydantic",
+      "python",
+      "pytoch",
+      "rdkit",
+      "react",
+      "transformer",
+      "uvicorn",
+      "vite"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/kshitijd-2004/PestiSynth"
+    ],
+    "results": "Did Not Place"
+  },
+  "54": {
+    "url": "https://devpost.com/software/janus-wngfs3",
+    "title": "Janus",
+    "tagline": "A Semantic Audio Codec for Low-Bandwidth Networks.",
+    "description": "InspirationVideo calls, VoIP, phone calls, and digital radio all rely on transmitting raw audio waveforms, which require tens of thousands of bits per second. Drop below that, and audio becomes choppy, delayed, or disappears entirely. In situations at sea, natural disasters, or just low infrastructure environments, networks can fail, leaving us without effective means of communication. Janus is our answer, allowing first responders, remote communities, and people to still hear each other\u2019s voices, even when the network can\u2019t carry any audio.What it doesJanus is a semantic audio codec for ultra-low-bandwidth networks. It lets people communicate naturally using voice, even when the connection is far too weak to carry audio itself. Janus listens to the speaker\u2019s live voice, extracts the text (content), pitch and loudness (tone), and emotion cues (intent), and compresses this information into a tiny MessagePack payload under 300 bits per second. Instead of transmitting audio, it sends only the meaning and tone. On the receiving end, a generative TTS model reconstructs the message using a clear, neutral voice shaped by the sender\u2019s real-time prosody. The result is natural, expressive speech transmitted over a connection that is too weak for any existing audio codec, including state-of-the-art systems like Google Lyra.How we built itWe built Janus as an end-to-end pipeline with a sender, a semantic compression protocol, and a receiver. On the sender side, a Python \u201cEar\u201d module captures live microphone audio, transcribes it with Faster-Whisper, and extracts pitch and loudness using Aubio, packaging these features into a compact semantic payload. This payload is serialized with MessagePack and kept under ~300 bps using different modes (semantic voice, text-only, or emotion override). On the receiving end, a \u201cMouthpiece\u201d module reads the packets and regenerates the message using Fish Audio\u2019s generative TTS, applying the sender\u2019s real-time prosody. We also built a Next.js demo interface that logs transmitted packets and provides a push-to-talk control surface for interacting with the system.Challenges we ran intoOne of the biggest challenges we faced was getting the system to behave consistently across different machines. Components that worked perfectly on one laptop would break on another, due to environment differences, version mismatches, or OS-level audio handling.Accomplishments that we're proud ofWe built a fully functional semantic audio codec in just 24 hours and successfully transmitted expressive speech over a 300-bps simulated link. Janus was able to reconstruct a clear, natural-sounding voice with pitch, tone, and emotional cues preserved, demonstrating that semantic communication can work even when audio cannot. We implemented a complete technical pipeline inspired by cutting-edge research like SemantiCodec and delivered an integrated end-to-end demo, including the sender, protocol layer, receiver, and a real-time UI, to show the system operating live.What we learnedWe learned that waveform audio is surprisingly fragile, while semantic information is remarkably resilient. Understanding what someone said requires only a fraction of the bandwidth needed to transmit raw sound waves. Building Janus made this clear: semantic communication works even when audio transmission completely fails. This project showed us firsthand that semantic codecs aren\u2019t just an academic idea; they represent the future of low-bandwidth communication and offer a practical path toward more reliable, efficient voice systems in constrained or degraded networks.What's next for JanusMake Janus a deployable service by packaging the pipeline into a production-ready, Dockerized backend with a documented API that can plug into mesh networks, satellite links, and other low-bandwidth systems. Build companion iOS and Android apps that provide a simple push-to-talk interface on real devices.",
+    "built-with": [
+      "css",
+      "fastapi",
+      "nextjs",
+      "python",
+      "react",
+      "typescript",
+      "websockets"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/akshatvasisht/MadHacks"
+    ],
+    "results": "Did Not Place"
+  },
+  "55": {
+    "url": "https://devpost.com/software/electric-chair",
+    "title": "Electric Chair",
+    "tagline": "Ride electric chair - fun :)",
+    "description": "Angle Grinding",
+    "built-with": [
+      "3d-printing",
+      "angle-grinder",
+      "arduino",
+      "bluepad",
+      "bluetoothserial",
+      "c++",
+      "cad",
+      "drill-press",
+      "kinect",
+      "python",
+      "roboclaw",
+      "windowssdk"
+    ],
+    "video-link": "https://www.youtube.com/embed/MXTYrrQDJWY?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/Balabalu-VE/Chair_Bot"
+    ],
+    "results": "Did Not Place"
+  },
+  "56": {
+    "url": "https://devpost.com/software/voice-verse-kdorqt",
+    "title": "Voice Verse",
+    "tagline": "Entertaining the Youth!",
+    "description": "InspirationThe idea of having an immersive experience when listening to a book, and a change from the old monotonous tone of reading, is what inspired our team to develop character-specific voices at the user's will.What it doesThe app adds an immersive feature of converting text to Audio in a way never done before. It uses different voices for different characters, which is up to the user's discretion. It allows the user to upload books of their choice and choose a voice from the many available options for characters (prompted when the book is started).How we built itOverall, we used languages such as TypeScript and CSS for front-end and back-end dev, as well as using VS Code IDE and React Native for developing the mobile application. We also used API integration for aspects such as DeepSeek (credits used for context in pages for who the characters are and what they say- used for audio voice purposes).For front-end, we developed on React and ExpoGo (during the development stage and part of testing). We used CSS for images and icon sizes, as well as using TypeScript for user-app interactions and workflow between panels, screens, or tabs.For the back-end, we first came up with a prompt that had proper parameters to handle the test case. Using the API, there are some edge cases, but for a demo, it is fine. We then coded using the API, and got it to identify which character is talking, then we worked towards integrating this with the Fish Audio, and using Fish Audio's API together to give each of the characters a voice in our mobile app.## Challenges we ran intoWe struggled to get the right prompt and had to prompt the engineer for a good prompt before successfully doing it for our DeepSeek API.At the end of the hackathon, we realised that Expo CLI and Expo Go do not support Audio file downloading, which led to having code and no way to execute the program. The Mac development wall prevented the use of many mobile app dev apps, leading to execution of code becoming a hassle (especially when time is running out).\n## Accomplishments that we're proud ofWe did manage to integrate DeepSeek LLM API into the app to make it read a page, take into context the dialogues and who says it, and create characters' list and dialogues.We started a couple of hours late and still managed to do all that we wanted to do with the project, along with some features in the front and back-end.\n## What we learnedLearned to implement AI into mobile app development - a useful feature for the hard task we wanted to do (learned prompting AI specifically to perform the required task - training).Importing API such as FishAudio and using them in voice for characters.\n## What's next for Voice VerseDealing with our edge cases, because as we expand our book size, the margin in which the name of the character talking would increase.",
+    "built-with": [
+      "deepseek",
+      "fishaudio",
+      "react.js",
+      "typescript"
+    ],
+    "video-link": null,
+    "other-links": null,
+    "results": "Did Not Place"
+  },
+  "57": {
+    "url": "https://devpost.com/software/urban-explorer-s-nightmare",
+    "title": "Urban Explorer's Nightmare",
+    "tagline": "It is a simple horror game that uses no animation with minimal graphics and audio, yet is still able to give people a challenge and scare.",
+    "description": "InspirationMy first idea was to make a simple top-down dungeon game, but I quickly realized that would be far too complex for the timeframe. So I simplified the concept and changed some of the core premises, eventually narrowing it down to just a few essential mechanics. The game is also partly inspired by FNAF, especially in how the flashlight works and how the monster decides to move.What it doesThis is a simple pixel-style horror game where your goal is to escape from a monster that has trapped you in a cat-and-mouse scenario. The game takes place on a 7\u00d77 grid: you start at the exit, and the monster spawns on the opposite side of the map. You\u2019re equipped with three tools to help you survive:\nA thermometer and a decibel meter to detect when the monster is nearby, A flashlight to briefly stun the monster. However, each tool has limited battery life, so you must use them strategically. To escape, you need to find a key and use it on the exit. This cycle repeats four times before the exit fully opens. With each cycle, the monster becomes increasingly active and dangerous.How we built itI started by creating all of the pixel-art assets in Piskel, then moved into the Godot Engine to build the game. The first step was getting all the assets into the project and making sure they looked right. After that, I implemented player movement, built the map, and added the various tools. Next, I worked on the escape mechanics, the death system, and the main menu. Finally, I created and implemented the monster. For audio, I used whatever objects I had nearby to record the small set of sound effects in the game, adding a bit of atmosphere to the experience.Challenges we ran intoOne of the biggest challenges I faced was my limited pixel-art skills. While I\u2019m happy with how the visuals turned out, creating even the simple designs I had in mind took much longer than expected. Some assets also ended up a bit rough, so I had to compensate through code to make everything look and feel consistent. For example, the monster is never visible in the gameplay until the jumpscare, which is why there is no monster sprite, and the screen going black during room changes was another way to maintain immersion despite visual limitations. Another challenge was deciding which features I realistically had time to implement and which ones I needed to cut before even starting them. I had to strike a careful balance between finishing the project on time and not leaving so much time unused that I could have added more features.Accomplishments that we're proud ofI\u2019m proud that I was able to not only create a game in just 24 hours, but also upload it for others to play \u2014 making this my first officially published game (excluding Scratch projects). Usually, I work on remakes of other games or on programs unrelated to gaming, so finishing and releasing an original game is a big milestone for me.What we learnedI improved in two major areas while working on this project. First, I\u2019ve gotten better at creating pixel art. More importantly, I\u2019ve learned how to better gauge what I can realistically accomplish within my skill set and the available timeframe.What's next for Urban Explorer's NightmareI hope to implement several features that had to be cut due to time constraints. One of these is a knife tool, which would allow players to interact with certain objects\u2014but using it would leave them exposed to the monster. Another planned feature involved using the camera to stun the monster and the flashlight to ward it off. Both of the features can also still be seen on the player\u2019s sprite, hinting at mechanics that were originally intended to add more depth and tension to encounters. Finally, there were supposed to be batteries that could recharge one item at a time, introducing more resource management and strategic decision-making.",
+    "built-with": [
+      "gdscript",
+      "godot"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://dbanderasinf.itch.io/urban-explores-nightmare",
+      "https://github.com/dbanderasinf-collab/Hackathon---Urban-explores-nightmare"
+    ],
+    "results": "Did Not Place"
+  },
+  "58": {
+    "url": "https://devpost.com/software/mad-snacks",
+    "title": "Mad Snacks",
+    "tagline": "Worried about where to shop for food within your budget? Don't worry, Mad Snacks is here for you! Our web application is designed to craft a grocery list for you that balances frugality and flavor!",
+    "description": "query: chips",
+    "built-with": [
+      "css",
+      "flask",
+      "html",
+      "javascript",
+      "python",
+      "selenium",
+      "sqlite"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/kchang75-stack/hack"
+    ],
+    "results": "Did Not Place"
+  },
+  "59": {
+    "url": "https://devpost.com/software/lookout-community-powered-emergency-safety-app",
+    "title": "Lookout \u2013 Community-Powered Emergency Safety App",
+    "tagline": "\u201cHelp should never be more than a mile away.\u201d",
+    "description": "Map View for Nearest Emergency Services",
+    "built-with": [
+      "expo.io",
+      "fastapi",
+      "gemini",
+      "python",
+      "react-native",
+      "tds",
+      "typescript",
+      "whisper"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/jpmehta1/lookoutfinal",
+      "https://www.canva.com/design/DAG5h_Gxh04/6xwYEnz8XtnKlPzcmfo-oA/edit?utm_content=DAG5h_Gxh04&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+    ],
+    "results": "Did Not Place"
+  },
+  "60": {
+    "url": "https://devpost.com/software/baymax-dr9gk7",
+    "title": "Baymax",
+    "tagline": "your remote nurse at ease",
+    "description": "",
+    "built-with": [
+      "gemini",
+      "opencv",
+      "python"
+    ],
+    "video-link": "https://www.youtube.com/embed/y4WESdeTDgc?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/Tactacion/Baymax_MadHacks"
+    ],
+    "results": "Did Not Place"
+  },
+  "61": {
+    "url": "https://devpost.com/software/nutriview-owntuk",
+    "title": "NutriView",
+    "tagline": "Ever wonder what the dining food is actually like? Look no further! With NutriView you can see the food for the day, and what people\u2014like you\u2014think about it. That way you can make an informed decision",
+    "description": "InspirationAs current freshman at UW Madison who lives in the resident halls, I would always check Nutrislice before going to any dining hall.\nHowever, this website only showed the name of said food, never any pictures, never any reviews. Because of this, I never knew if the food was actually good. We decided to change this my creating NutriView,What it doesHow we built itGathers users input to make ratings and reviews of every food item.Challenges we ran intoWe tried to make this into a Google extension where it would show you the heart percentage next to the website.Accomplishments that we're proud ofLearning how to map out ideas and transfer them into code so quicklyWhat we learnedHow to draw out a website idea template.What's next for NutriViewThe plan is to make this a full website my next year where it would a take the data from the series",
+    "built-with": [
+      "css",
+      "html",
+      "javascript"
+    ],
+    "video-link": null,
+    "other-links": null,
+    "results": "Did Not Place"
+  },
+  "62": {
+    "url": "https://devpost.com/software/the-study-spud",
+    "title": "Spuddy",
+    "tagline": "Meet Spud, the AI study buddy that reads your mood. Using computer vision, he detects your stress or joy and reacts with voice lines and animations, keeping you company without breaking your focus.",
+    "description": "InspirationWe all know the cycle: you sit down to study, check one notification, and suddenly you\u2019ve lost an hour to doomscrolling on TikTok or Instagram. For students, the phone is the ultimate enemy of productivity.We wanted to flip the script. Instead of fighting the urge to check our phones, what if we occupied the phone with something helpful? We were inspired by the concept of \"body doubling\"\u2014where just having someone else in the room helps you focus\u2014and decided to combine that with a \"digital lock.\" We built Spuddy to be a companion that demands your phone\u2019s attention so you can't give it yours.What it doesSpuddy is an emotionally intelligent desk companion that effectively \"bricks\" your phone with cuteness.To work, Spuddy needs to see you. You have to prop your phone up on your desk, open the app, and leave it alone. The app uses the front-facing camera to continuously monitor your facial expressions, categorizing them into 7 basic emotions (like Happy, Sad, or Frustrated).As long as the app is open and facing you, Spuddy hangs out. If you look stressed, he might sigh sympathetically (\"Ughhh...\") or offer encouragement. If you look happy, he bounces. But the moment you pick up your phone to scroll social media, you break the connection. By forcing the phone to be a passive \"observer\" on your desk, Spuddy physically removes the temptation to procrastinate.How we built itWe built Spuddy using React Native (Expo). The architecture relies on the app remaining in the foreground to access the camera stream:The \"Eyes\" (Face Detection): We implemented real-time face detection to capture the user's emotional state. This requires the phone to be stationary and facing the user.The \"Brain\" (Groq & Llama 3.1): When a mood shift is detected, the app hits the Groq API with a specific system prompt that gives Spud his lazy, supportive personality.The \"Voice\" (Fish Audio): We pipe text responses into Fish Audio to generate realistic, emotive speech with phonetic markers.The \"Body\" (React Native Reanimated): Spud is a dynamic puppet controlled by shared values. When he speaks, we trigger a physics-based \"squash and stretch\" animation loop to make him feel alive.Challenges we ran intoThe biggest technical hurdle was concurrency and state synchronization.Because facial expressions change milliseconds apart, Spuddy would often try to trigger three different reactions at once. This caused \"race conditions\" where his audio would overlap, or he would get stuck in a \"busy\" state forever. We had to engineer a custom Mutex (locking mechanism) using React refs and a \"Watchdog Timer\" to ensure Spuddy finishes one thought before starting another.Accomplishments that we're proud ofThe \"Anti-Scroll\" UX: Designing an interface that encourages not touching the screen. By making the character reactive to the user's face, we gamified the act of leaving the phone alone.The \"Squash and Stretch\": Getting the animation to perfectly sync with the audio state so Spud looks like he is actually talking.Prompt Engineering: getting an LLM to be concise and passive is harder than it looks. We tuned Spud to feel like a pet, not a chatbot.What we learnedThis project taught us that constraint is a feature. By forcing the user to keep the app open and the camera active, we solved the physical problem of phone addiction with a software solution. We also learned deep lessons in React Native animation states, specifically how to sync an asynchronous audio stream with a 60fps visual loop.What's next for SpuddyWe are currently experimenting with Bluetooth (BLE) integration to gamify the experience further\u2014perhaps locking the phone screen entirely while a separate physical \"Spud\" device sits on the desk. We also plan to add \"skins\" (hats, glasses) that users unlock based on how many minutes they spend studying without picking up their device.",
+    "built-with": [
+      "fishaudio",
+      "groq",
+      "hume",
+      "openai",
+      "react-reanimate",
+      "reactnative",
+      "typescript"
+    ],
+    "video-link": null,
+    "other-links": null,
+    "results": "Did Not Place"
+  },
+  "63": {
+    "url": "https://devpost.com/software/uw-marketplace-jtbzhu",
+    "title": "UW Marketplace",
+    "tagline": "UW Marketplace offers Badgers a safe, intuitive platform to buy and sell goods and services, powered by smart search, easy payments, and a seamless user experience that builds campus community.",
+    "description": "Cart page with total",
+    "built-with": [
+      "docker",
+      "flutter",
+      "serverpod"
+    ],
+    "video-link": "https://www.youtube.com/embed/frA2cI-k-J0?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/lostplusfound/madhacks"
+    ],
+    "results": "Did Not Place"
+  },
+  "64": {
+    "url": "https://devpost.com/software/neurocursor",
+    "title": "NeuroCursor",
+    "tagline": "With just a  webcam, NeuroCursor tracks mouth, and head movements to move the cursor, click, and scroll \u2014 making it possible for people with mobility impairments, navigate a computer effortlessly.",
+    "description": "NeuroCursor was born out of a real accessibility need: hands-free computer control. After I noted how hindered people with injuries, disabilities, and generalized restricted movement struggle with basic computer functions, needing to open apps, click, type and scroll without hands, I knew I wanted to create something that would reinstate independence - and all one would need is a laptop and a webcam.Thus, NeuroCursor was created. NeuroCursor allows users to control their computers purely based on facial gestures, head movement, and expressive AI voice feedback. MediaPipe Face Mesh helped me achieve desired facial landmarks necessary for mouth opening, cheek puffing, smiling and head angles. These gestures were translated into cursor movement, clicks and scrolls in real-time such that no set-up or non-deliberate physical control is required at all.I learned an incredible amount while creating NeuroCursor. I gained an understanding of facial landmarking and learned the difference between intentional gestures and mere natural facial expressions via thresholding, calibration and smoothing. I developed a strong understanding for gesture-based design that minimizes strain and unintentional gestures and the difficulty involved in merging computer vision, human-computer interaction and real-time input ability.An especially impactful portion of the project was integrating Fish Audio. As an AI with expressive TTS, it helped me teach NeuroCursor to speak state changes, actions, alerts and commands through natural-sounding and human-like speech instead of on-screen instructions. This makes the entire experience less frustrating as it directly tells the user when a click was executed, when calibration is complete or when their face isn't detected. With Fish's voice cloning capabilities, NeuroCursor can also speak in the user\u2019s voice for an extra comfortable feel. Thus, audio feedback is rendered throughout the experience as a more intuitive and accessible interface - the user might not be able to see where the cursor is going, but they can be told.There were many challenges throughout development. Understanding precision for gesture detection required a lot of testing as any small lighting change, angle or user difference would dramatically alter prediction response. To achieve smooth cursor movement, proper filtering was required with dead zones developed through testing to eliminate excess jittering. Real-time responsiveness between gesture detection and audio output relied on cache abilities and prompt execution to mitigate delays in TTS responses when possible. Finally, finding gestures that felt natural but distinguishable enough to avoid false positives took a lot of tries.But the end result is a fully hands-free user control system that operates on any general laptop with no added sensors, gloves or specialized devices needed. By combining AI computer vision with expressive voice capability for feedback and commands, NeuroCursor aspires to make human-computer interaction more intuitive, inclusive and empowering for those who lack traditional input device abilities. Ultimately, it aims to restore independence and simplified use for those who need it most.",
+    "built-with": [
+      "fishaudioapi",
+      "github",
+      "mediapipe",
+      "numpy",
+      "opencv",
+      "pillow",
+      "pyaudio",
+      "pyautogui",
+      "pyttsx3",
+      "sounddevice",
+      "soundfile",
+      "speechrecognition",
+      "tkinter"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/Aadarsh-Sankar/MadHacks-NeuroCursor"
+    ],
+    "results": "Did Not Place"
+  },
+  "65": {
+    "url": "https://devpost.com/software/wick-the-algo-trading-ide",
+    "title": "Wick\u2014The Algo-Trading IDE",
+    "tagline": "Open Source VSCode extension that brings you to a no/low code algorithmic trading environment. It aims to democratize access to algo-trading, allowing anyone to get started in about 4 clicks + API key",
+    "description": "Live Paper Algorithmic Trading",
+    "built-with": [
+      "backtesting.py",
+      "public",
+      "python",
+      "tradingview",
+      "typescript",
+      "visual-studio-code",
+      "yahoo-finance"
+    ],
+    "video-link": "https://www.youtube.com/embed/TArsGy_JY8Q?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/Avni2000/Wick",
+      "https://github.com/Avni2000/Wick/blob/main/wick-0.0.2.vsix"
+    ],
+    "results": "Did Not Place"
+  },
+  "66": {
+    "url": "https://devpost.com/software/sub2lease",
+    "title": "Sub2Lease",
+    "tagline": "The fast and safe sublease platform built for UW Madison",
+    "description": "Deployed backend on Render",
+    "built-with": [
+      "javascript",
+      "mongodb",
+      "python",
+      "react",
+      "render",
+      "typescript"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/Sub2Lease",
+      "https://frontend-cyan-two-12.vercel.app/",
+      "https://www.figma.com/board/fvEiMnp4gb706GwHritpb4/Untitled?node-id=0-1&p=f&t=uWwyZrYbUOkatxzW-0"
+    ],
+    "results": "Did Not Place"
+  },
+  "67": {
+    "url": "https://devpost.com/software/leetbattles",
+    "title": "LeetBattles",
+    "tagline": "Have you ever done leetcode alone, bored out of your mind? Now you won't have to with competitive 1v1 leetcode with your friends! Compete to see who is better!",
+    "description": "",
+    "built-with": [
+      "css",
+      "fish-audio",
+      "html5",
+      "javascript",
+      "json",
+      "judge0",
+      "websockets"
+    ],
+    "video-link": "https://www.youtube.com/embed/Dg_BKgZ97FY?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/levelingpotato/MadHacks-2025-.git"
+    ],
+    "results": "Did Not Place"
+  },
+  "68": {
+    "url": "https://devpost.com/software/rydr-5rfit4",
+    "title": "Rydr",
+    "tagline": "Ride together. Save more.",
+    "description": "Offer your own ride",
+    "built-with": [
+      "expo-router",
+      "expo.io",
+      "firebase",
+      "firebase-authentication",
+      "firestore",
+      "google-maps",
+      "react-native",
+      "typescript"
+    ],
+    "video-link": "https://www.youtube.com/embed/8lMVm01q--A?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/madhacks-2025/rydr"
+    ],
+    "results": "Did Not Place"
+  },
+  "69": {
+    "url": "https://devpost.com/software/you-t9y041",
+    "title": "!You",
+    "tagline": "Not you picking up, so YOU don't miss what matters!",
+    "description": "GUI",
+    "built-with": [
+      "fish-audio",
+      "javascript",
+      "next.js",
+      "node.js",
+      "openai-(gpt-4o-mini-&-whisper)",
+      "openai-api",
+      "railway",
+      "react",
+      "tailwindcss",
+      "twilio",
+      "typescript"
+    ],
+    "video-link": "https://www.youtube.com/embed/RyZ4xsmWYSA?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://you-production-6246.up.railway.app/",
+      "https://github.com/SamiAhmadBeg/-You"
+    ],
+    "results": "Did Not Place"
+  },
+  "70": {
+    "url": "https://devpost.com/software/collaboard-8ze9tf",
+    "title": "Collaboard",
+    "tagline": "Cursor tab autocomplete for iPad notes.",
+    "description": "",
+    "built-with": [
+      "next.js",
+      "node.js",
+      "typescript"
+    ],
+    "video-link": "https://www.youtube.com/embed/D0-QV8mT8hM?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/ReedG20/madhacks"
+    ],
+    "results": "Did Not Place"
+  },
+  "71": {
+    "url": "https://devpost.com/software/chordsight",
+    "title": "ChordSight",
+    "tagline": "Our app uses your webcam to track finger placement on the guitar fretboard, giving real-time feedback to help you play chords accurately and practice smarter, like a personal coach.",
+    "description": "",
+    "built-with": [
+      "amazon-web-services",
+      "fastapi",
+      "opencv",
+      "postgresql",
+      "python",
+      "react",
+      "tailwind"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/KalnBrs/CVMusic"
+    ],
+    "results": "Did Not Place"
+  },
+  "72": {
+    "url": "https://devpost.com/software/office-pt",
+    "title": "Office PT",
+    "tagline": "Live preventative care for office workers.",
+    "description": "Corina's Unoptimized Beta System Design",
+    "built-with": [
+      "chakraui",
+      "electron",
+      "flask",
+      "java",
+      "javascript",
+      "mediapipe",
+      "mongodb",
+      "openrouter",
+      "python",
+      "react",
+      "spring",
+      "typescript",
+      "vite"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/CorinaNC/office_pt"
+    ],
+    "results": "Did Not Place"
+  },
+  "73": {
+    "url": "https://devpost.com/software/stablepay-5l8jeu",
+    "title": "StablePay",
+    "tagline": "StablePay helps people in hyperinflation economies manage stablecoin assets by finding the cheapest conversion rates from local currency and providing financial intelligence on wealth management.",
+    "description": "",
+    "built-with": [
+      "expo.io",
+      "fastapi",
+      "python",
+      "react-native",
+      "solana"
+    ],
+    "video-link": "https://www.youtube.com/embed/ZlqqYAGr3aI?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/devmenon23/stablepay-backend",
+      "https://github.com/danielryang/stablepay-frontend"
+    ],
+    "results": "Did Not Place"
+  },
+  "74": {
+    "url": "https://devpost.com/software/unsilenced-oml4g5",
+    "title": "Unsilenced",
+    "tagline": "Helping the specially abled reclaim their voices and connect emotionally in conversations.",
+    "description": "Home Page",
+    "built-with": [
+      "css",
+      "face-api.js",
+      "fish-audio-api",
+      "flask",
+      "javascript",
+      "mediapipe",
+      "next.js",
+      "python",
+      "react",
+      "tailwind",
+      "typescript"
+    ],
+    "video-link": "https://www.youtube.com/embed/jfsXk_WrzzQ?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/anishsrinivasa/MadHacksSubmission2025"
+    ],
+    "results": "Did Not Place"
+  },
+  "75": {
+    "url": "https://devpost.com/software/ledgerleaf",
+    "title": "LedgerLeaf",
+    "tagline": "LedgerLeaf is a fast, simple budgeting and loan tool that helps people make smarter financial decisions with ease. It delivers instant, clear insights tailored to each user\u2019s financial situation.",
+    "description": "Loan Tab",
+    "built-with": [
+      "css",
+      "fastapi",
+      "html",
+      "javascript",
+      "pydantic",
+      "python",
+      "sqlite",
+      "uvicorn"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/nzkurtz/LedgerLeaf"
+    ],
+    "results": "Did Not Place"
+  },
+  "76": {
+    "url": "https://devpost.com/software/stellar-insight-labs-hkeplb",
+    "title": "Stellar Insight Labs",
+    "tagline": "Illuminating new worlds through intelligent discovery.",
+    "description": "",
+    "built-with": [
+      "backend)",
+      "flask-frontend:-react",
+      "framer-motion",
+      "javascript-libraries:-pandas",
+      "languages:-python",
+      "lightgbm",
+      "lime",
+      "mast-api-visualization:-shap",
+      "numpy",
+      "render",
+      "scikit-learn",
+      "tailwindcss",
+      "tensorflow-backend:-fastapi",
+      "three.js-(3d-orbit-visualizer)-deployment:-netlify-(frontend)",
+      "three.js-data-source:-nasa-exoplanet-archive-api"
+    ],
+    "video-link": "https://www.youtube.com/embed/S1-MCvsTB6Y?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://unknown-god.netlify.app/",
+      "https://github.com/UnknownGod2011/Interstellar",
+      "https://docs.google.com/presentation/d/15Rj3pP5X9nzNhuEqBrEADPpwW2-sBHjU/edit?usp=drivesdk&ouid=114998115101846255906&rtpof=true&sd=true"
+    ],
+    "results": "Did Not Place"
+  },
+  "77": {
+    "url": "https://devpost.com/software/always-at-morgridge",
+    "title": "Always At Morgridge",
+    "tagline": "A Golang-powered command-line social network built around Mogridge Hall.",
+    "description": "",
+    "built-with": [
+      "bubbletea",
+      "golang",
+      "websockets"
+    ],
+    "video-link": "https://www.youtube.com/embed/GqWS0XAnzv8?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/1611Dhruv/always-at-morg"
+    ],
+    "results": "Did Not Place"
+  },
+  "78": {
+    "url": "https://devpost.com/software/radnet",
+    "title": "SWARM",
+    "tagline": "Self\u2011Organizing Wireless Asynchronous Relay Mesh",
+    "description": "",
+    "built-with": [
+      "b2b-ai-saas",
+      "multipeer-connectivity",
+      "react-native",
+      "typescript"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/spaceybread/improved-octo-computing-machine"
+    ],
+    "results": "Did Not Place"
+  },
+  "79": {
+    "url": "https://devpost.com/software/gpt-rewind",
+    "title": "GPT Rewind",
+    "tagline": "Spotify wrapped for ChatGPT - See you year in review and turn it into a highlight reel!",
+    "description": "\"Hardest Question\" slide",
+    "built-with": [
+      "fastapi",
+      "fish-audio",
+      "javascript",
+      "nextjs",
+      "python",
+      "pytorch",
+      "react"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/fallow64/gpt-rewind"
+    ],
+    "results": "Did Not Place"
+  },
+  "80": {
+    "url": "https://devpost.com/software/bird-s-i",
+    "title": "Bird's I",
+    "tagline": "Bird's I is a personal flying guide for the visually impaired. It hovers overhead to see the whole picture. It watches your path for obstacles, and voices them out using Fish Audio.",
+    "description": "",
+    "built-with": [
+      "aruco-markers",
+      "dji",
+      "fishaudio",
+      "opencv",
+      "python",
+      "pytorch",
+      "yolov3-tiny"
+    ],
+    "video-link": "https://www.youtube.com/embed/6-mszsoufd4?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/KrishivGupta-07/madhacks25"
+    ],
+    "results": "Did Not Place"
+  },
+  "81": {
+    "url": "https://devpost.com/software/iswipe",
+    "title": "iSwipe \u2013 Your intelligent email management tool",
+    "tagline": "Smart categorization and filtering of emails. Easily swipe left and right and click to clean up your actual Outlook inbox!\u200b Directly create events, todos to your Apple Calendar and Reminders!\u200b",
+    "description": "Original Video",
+    "built-with": [
+      "apple-calendar",
+      "apple-reminders",
+      "claude-code",
+      "cursor",
+      "gemini",
+      "microsoft-azure-graph",
+      "python",
+      "swift",
+      "xcode"
+    ],
+    "video-link": "https://www.youtube.com/embed/ZbAjrFMGdoI?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/evan1liu/iswipe"
+    ],
+    "results": "Did Not Place"
+  },
+  "82": {
+    "url": "https://devpost.com/software/hiveshare-z0oe9i",
+    "title": "HiveShare",
+    "tagline": "A campus sharing platform that connects students to split costs on rides, shipping, food, phone plans, and more - building community through collaboration.",
+    "description": "",
+    "built-with": [
+      "github",
+      "java",
+      "postgresql",
+      "react",
+      "springboot",
+      "typescript",
+      "vite"
+    ],
+    "video-link": "https://www.youtube.com/embed/Dl-zjqj2zFw?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/jaclpsty04/HiveShare/",
+      "https://docs.google.com/presentation/d/16vJhB75XjqNPmHl5x-D0PJxA-UOmYAIUET4ZbhXcXv4/edit?slide=id.g3a9019a6d82_0_18#slide=id.g3a9019a6d82_0_18"
+    ],
+    "results": "Did Not Place"
+  },
+  "83": {
+    "url": "https://devpost.com/software/aisia",
+    "title": "AIisa",
+    "tagline": "Simple LLM wrapper that can answers user questions, as well as analysing and giving advice based on the table user provides.",
+    "description": "",
+    "built-with": [
+      "debian",
+      "jsx",
+      "mysql",
+      "ollama",
+      "python",
+      "react",
+      "vite",
+      "websockets"
+    ],
+    "video-link": null,
+    "other-links": [
+      "http://136.116.180.58:4173/"
+    ],
+    "results": "Did Not Place"
+  },
+  "84": {
+    "url": "https://devpost.com/software/jarvis-ai-47w13i",
+    "title": "Jarvis",
+    "tagline": "Your personal desktop assistant",
+    "description": "",
+    "built-with": [
+      "agent-s",
+      "fishaudio",
+      "sound-exchange"
+    ],
+    "video-link": "https://www.youtube.com/embed/Qrd-3xMSrc0?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/rit-123/Jarvis"
+    ],
+    "results": "Did Not Place"
+  },
+  "85": {
+    "url": "https://devpost.com/software/cinerank",
+    "title": "CineRank",
+    "tagline": "Because ranking movies in your head has plot holes.",
+    "description": "Main Page with search results",
+    "built-with": [
+      "css",
+      "firebase-authentication",
+      "firestore",
+      "git/github",
+      "javascript",
+      "omdb-api",
+      "react"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/JeevanJyot55/CineRank"
+    ],
+    "results": "Did Not Place"
+  },
+  "86": {
+    "url": "https://devpost.com/software/vocaldna",
+    "title": "VocalDNA",
+    "tagline": "Have you ever wondered what your voice sounds like to others? With VocalDNA, you can record your voice and get an accurate prediction on your accent, age, and biological sex.",
+    "description": "Logo",
+    "built-with": [
+      "css3",
+      "html5",
+      "javascript",
+      "librosa",
+      "numpy",
+      "python",
+      "sklearn",
+      "xgboost"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/zhhw233/Madhacks/blob/main/README.md"
+    ],
+    "results": "Did Not Place"
+  },
+  "87": {
+    "url": "https://devpost.com/software/lensswap",
+    "title": "LensSwap",
+    "tagline": "a tool that makes you smarter, fairer, and harder to manipulate.",
+    "description": "paste any news article link here and click 'submit'",
+    "built-with": [
+      "express.js",
+      "groq",
+      "javascript",
+      "newsapi",
+      "node.js",
+      "react",
+      "vite"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/drunkcaterpillar/LensSwap"
+    ],
+    "results": "Did Not Place"
+  },
+  "88": {
+    "url": "https://devpost.com/software/sonant-ai",
+    "title": "Sonant AI",
+    "tagline": "Most language apps rely on memorization. Our app improves learning by letting users hear corrected versions of their own speech with voice cloning and talk with an AI to use theirs and other voices.",
+    "description": "Workflow of Practice mode",
+    "built-with": [
+      "css3",
+      "deepgram",
+      "fastapi",
+      "fish-audio",
+      "gemini",
+      "html5",
+      "javascript",
+      "python",
+      "sqlite"
+    ],
+    "video-link": "https://www.youtube.com/embed/lMKWrVJX8nw?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": null,
+    "results": "Did Not Place"
+  },
+  "89": {
+    "url": "https://devpost.com/software/spot-share",
+    "title": "SpotShare",
+    "tagline": "SpotShare turns empty campus driveways into cheap, bookable parking spots \u2014 helping students find nearby parking fast while owners earn extra cash.",
+    "description": "Spot Filters",
+    "built-with": [
+      "google-maps",
+      "next.js",
+      "shadcn/ui",
+      "tailwindcss",
+      "typescript"
+    ],
+    "video-link": "https://www.youtube.com/embed/D8qXJouiJpw?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://spot-share1.netlify.app/",
+      "https://github.com/alexgabrichidze/SpotShare"
+    ],
+    "results": "Did Not Place"
+  },
+  "90": {
+    "url": "https://devpost.com/software/trustrent",
+    "title": "TrustRent",
+    "tagline": "TrustRent turns move-in/out photos and lease PDFs into clear, AI-powered evidence and rental credit scores so property managers cut disputes, protect deposits, and reward good renters.",
+    "description": "",
+    "built-with": [
+      "and-supabase",
+      "bcryptjs-for-authentication",
+      "built-with-typescript",
+      "drizzle-orm",
+      "google-gemini-ai-(gemini-2.5-flash)",
+      "next.js-16",
+      "postgresql",
+      "react-19",
+      "sendgrid",
+      "tailwind-css-4",
+      "using-pdf-lib-for-pdf-processing",
+      "zod"
+    ],
+    "video-link": "https://www.youtube.com/embed/AZhBEXBKS2s?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/WilliamK112/Madhacks2025---TrustRent"
+    ],
+    "results": "Did Not Place"
+  },
+  "91": {
+    "url": "https://devpost.com/software/eldersurf",
+    "title": "Brainstormer",
+    "tagline": "Debate. Discover. Decide.",
+    "description": "",
+    "built-with": [
+      "duckduckgo-search-api",
+      "fastapi",
+      "fishaudio-api",
+      "httpx",
+      "microsoft-autogen",
+      "msgpack",
+      "openai-api",
+      "pydantic",
+      "python",
+      "sqlite",
+      "uvicorn",
+      "websockets"
+    ],
+    "video-link": "https://www.youtube.com/embed/3OigAOZFuoE?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/dehanli/argueAI"
+    ],
+    "results": "Did Not Place"
+  },
+  "92": {
+    "url": "https://devpost.com/software/polariscapital-analytics",
+    "title": "PolarisCapital Analytics",
+    "tagline": "PolarisCapital Analytics is a dual-domain analytics engine that unifies astronomy and finance using real machine-learning models and data engineering.",
+    "description": "Astronomy",
+    "built-with": [
+      "airflow",
+      "cs",
+      "d3.js",
+      "docker",
+      "flask",
+      "html",
+      "javascript",
+      "kafka",
+      "lightgbm",
+      "nasa",
+      "numpy",
+      "pandas",
+      "python",
+      "scikit-learn",
+      "snowflake",
+      "sql",
+      "xgboost",
+      "yfinance"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/mendezj2/PolarisCapital-Analytics",
+      "https://github.com/mendezj2/PolarisCapital-Analytics.git"
+    ],
+    "results": "Did Not Place"
+  },
+  "93": {
+    "url": "https://devpost.com/software/the-maddest-mockers",
+    "title": "The Maddest Mockers",
+    "tagline": "Get help with mock technical interviews utilizing Fish Audio!",
+    "description": "Assessment Page",
+    "built-with": [
+      "cors",
+      "css",
+      "fishaudio",
+      "javascript",
+      "llm",
+      "python",
+      "react",
+      "websockets"
+    ],
+    "video-link": "https://www.youtube.com/embed/Z5yTLEypliE?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/JacksonCDaniel/madhacks2025/tree/main"
+    ],
+    "results": "Did Not Place"
+  },
+  "94": {
+    "url": "https://devpost.com/software/unctracker",
+    "title": "UncTracker",
+    "tagline": "An app for finding and uploading coupons to keep track of expiration dates and save money. Also tracks uncs",
+    "description": "",
+    "built-with": [
+      "css",
+      "javascript",
+      "react",
+      "springboot",
+      "typescript",
+      "xcode"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/RexTabachnick/MadHacks2025/tree/frontend"
+    ],
+    "results": "Did Not Place"
+  },
+  "95": {
+    "url": "https://devpost.com/software/lost-and-found-s7g3up",
+    "title": "GetHub",
+    "tagline": "No one likes to be a loser, especially when it comes to belongings, so we built GetHub. Upload images of found items so that the people looking for them can search for and retrieve them.",
+    "description": "Map feature",
+    "built-with": [
+      "css",
+      "fishaudio",
+      "google-maps",
+      "javascript",
+      "openai",
+      "openstreetmap",
+      "postgresql",
+      "react",
+      "supabase",
+      "typescript"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/rikhilr/lostandfound"
+    ],
+    "results": "Did Not Place"
+  },
+  "96": {
+    "url": "https://devpost.com/software/lucidcare",
+    "title": "LucidCare",
+    "tagline": "Medical bills are confusing and stressful. Our AI explains reports kindly, reacts to emotions, finds billing mistakes, drafts appeals, and practices calls, bringing clarity and control to healthcare.",
+    "description": "AI agent Call Simulation",
+    "built-with": [
+      "fastapi",
+      "google-gemini-llm",
+      "python",
+      "react"
+    ],
+    "video-link": "https://www.youtube.com/embed/6FQP-TqLXW4?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/Siddhanth261/LucidCare"
+    ],
+    "results": "Did Not Place"
+  },
+  "97": {
+    "url": "https://devpost.com/software/squadsync",
+    "title": "SquadSync",
+    "tagline": "Wander far, never apart.",
+    "description": "",
+    "built-with": [
+      "folium",
+      "python",
+      "streamlit"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/apurvab15/SquadSync",
+      "https://www.canva.com/design/DAG5h88twAk/wWDUIlF9_dkosYJNPNo8jQ/view?utm_content=DAG5h88twAk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7803bf2749#3"
+    ],
+    "results": "Did Not Place"
+  },
+  "98": {
+    "url": "https://devpost.com/software/whimsurai",
+    "title": "WhimsurAI",
+    "tagline": "Your all-in-one browser tool for real-time audio translation, voice-preserving playback, transcription, and instant note generation across videos, conferencing apps, and even live lectures.",
+    "description": "",
+    "built-with": [
+      "chrome.tabcapture-api",
+      "esbuild-(via-vite)-**version-control:**-git",
+      "fish-audio-tts",
+      "fishaudio",
+      "github-**cloud/hosting:**-local-fastapi-server-(deployable-to-aws/gcp/render/railway)-**other:**-dotenv-for-environment-variables",
+      "openai-translation",
+      "pip",
+      "pipecat",
+      "pipecat-ai-**build-tools:**-npm",
+      "python",
+      "python-**frontend:**-react-18",
+      "tailwind-css-**browser-platform:**-chrome-extension-manifest-v3",
+      "typescript",
+      "uvicorn",
+      "virtualenv",
+      "vite",
+      "web-audio-api-**backend:**-fastapi",
+      "websockets",
+      "websockets-**ai/ml-services:**-deepgram-stt"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/B-a-1-a/WhismurAI"
+    ],
+    "results": "Did Not Place"
+  },
+  "99": {
+    "url": "https://devpost.com/software/3docs",
+    "title": "3Docs",
+    "tagline": "Make repair accessible.",
+    "description": "",
+    "built-with": [
+      "artificial-intelligence",
+      "fish-audio",
+      "gemini",
+      "next.js",
+      "python",
+      "react",
+      "sqlite",
+      "tripoai",
+      "typescript"
+    ],
+    "video-link": "https://www.youtube.com/embed/FfbDphUebQk?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/r-thak/3Docs-MadHacks2025-Winner",
+      "https://docs.google.com/presentation/d/1wH5-2nVvFJ_qfr9qA5CMiAYAcgmEjXY4lHjbWKdL734/edit?usp=sharing"
+    ],
+    "results": "Did Not Place"
+  },
+  "100": {
+    "url": "https://devpost.com/software/meridian-wfz7vs",
+    "title": "Meridian",
+    "tagline": "Meridian helps you stop guessing about your money and start growing your wealth.",
+    "description": "",
+    "built-with": [
+      "alpaca-trading-api",
+      "anam-ai",
+      "bcryptjs",
+      "ccxt",
+      "claude-api",
+      "css",
+      "daily.co",
+      "eslint",
+      "express.js-5",
+      "framer-motion",
+      "gemini-api",
+      "gsap",
+      "helmet.js",
+      "html5",
+      "javascript",
+      "json-web-tokens",
+      "lucide-react",
+      "mastra-ai",
+      "microsoft-signalr",
+      "multer",
+      "newsapi",
+      "node.js",
+      "nodemon",
+      "postgresql",
+      "prisma",
+      "radix-ui",
+      "react-19",
+      "react-dropzone",
+      "react-router-dom",
+      "react-three-fiber",
+      "recharts",
+      "sharp",
+      "socket.io",
+      "spline",
+      "tailwind-css",
+      "teller-api",
+      "tesseract.js",
+      "three.js",
+      "ts-node",
+      "typescript",
+      "typescript-compiler",
+      "vite",
+      "yahoo-finance-api",
+      "zustand"
+    ],
+    "video-link": "https://www.youtube.com/embed/A5lDL3uZP3Y?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://meridian-ruby.vercel.app/",
+      "https://github.com/AdityaYC/Meridian"
+    ],
+    "results": "Did Not Place"
+  },
+  "101": {
+    "url": "https://devpost.com/software/better-course-search-and-enroll",
+    "title": "ENHANCED ENROLL",
+    "tagline": "Extension to integrate UW Madison Course Search and Enroll with Madgrades and RateMyProfessor to streamline the enrollment process.",
+    "description": "",
+    "built-with": [
+      "css",
+      "github",
+      "html",
+      "javascript",
+      "json",
+      "madgradesapi",
+      "ratemyprofessorapi"
+    ],
+    "video-link": "https://www.youtube.com/embed/wF6qwnDMIcI?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/lindyjc/madhacks-25"
+    ],
+    "results": "Did Not Place"
+  },
+  "102": {
+    "url": "https://devpost.com/software/bob-s-businesses",
+    "title": "Bob's Businesses",
+    "tagline": "Not every small business is able to flourish in their financial journey on their own. That's why Bob, the AI chatbot, is here to help track, forecast, and improve your finances.",
+    "description": "Chatbot pop-up",
+    "built-with": [
+      "css",
+      "gemini",
+      "html",
+      "react",
+      "typescript"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/Charlieotracy/bob.git"
+    ],
+    "results": "Did Not Place"
+  },
+  "103": {
+    "url": "https://devpost.com/software/change-this-later-jlru93",
+    "title": "Sheet Diffusions",
+    "tagline": "Ever heard a tune you loved so much you wanted to play it? Have you also faced the roadblock of not being able to find said sheet music? Well look no further, we will create the sheet music for you!",
+    "description": "an example of some generated sheet music!",
+    "built-with": [
+      "bootstrap",
+      "fish.audio",
+      "flask",
+      "github",
+      "matplotlibs",
+      "muscore",
+      "numpy",
+      "opencv",
+      "python",
+      "react",
+      "torch"
+    ],
+    "video-link": "https://www.youtube.com/embed/Go0G9GZQmBw?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://gannonnn.github.io/MadHacksReal/"
+    ],
+    "results": "Did Not Place"
+  },
+  "104": {
+    "url": "https://devpost.com/software/safeplate-9fqp72",
+    "title": "SafePlate",
+    "tagline": "#SafePlate #Network #Allergy #Health #Gathering #Social",
+    "description": "",
+    "built-with": [
+      "css",
+      "html",
+      "javascript",
+      "json",
+      "mysql",
+      "node.js"
+    ],
+    "video-link": "https://www.youtube.com/embed/YxuCnhPXe6Q?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://safeplate365.com/"
+    ],
+    "results": "Did Not Place"
+  },
+  "105": {
+    "url": "https://devpost.com/software/recipe-manager-madhacks-2025",
+    "title": "Recipe Manager",
+    "tagline": "Our website organizes recipes based on users\u2019 allergies and preferred cooking methods. Users can upload their own recipes, including ingredients, dietary considerations, and step-by-step instructions.",
+    "description": "",
+    "built-with": [
+      "css",
+      "dockerfile",
+      "html",
+      "java",
+      "javascript"
+    ],
+    "video-link": "https://player.vimeo.com/video/1139796722?byline=0&portrait=0&title=0#t=0",
+    "other-links": [
+      "https://github.com/Elizabeth6666/MadHacks2025-ED_VH_CS_LA"
+    ],
+    "results": "Did Not Place"
+  },
+  "106": {
+    "url": "https://devpost.com/software/penni-personal-finance",
+    "title": "Penni Personal Finance",
+    "tagline": "This is a personal finance app that tracks your transactions across multiple bank accounts through an integrated AI agent that can make transactions on your behalf while providing financial analysis.",
+    "description": "Asking Penni a simple finance question",
+    "built-with": [
+      "chart.js",
+      "css",
+      "fastapi",
+      "html",
+      "javascript",
+      "json",
+      "ollama",
+      "openai",
+      "python",
+      "uvicorn"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/DimitriChrysafis/NEWMADHACKS/tree/main"
+    ],
+    "results": "Did Not Place"
+  },
+  "107": {
+    "url": "https://devpost.com/software/graph-4m",
+    "title": "Graph 4M",
+    "tagline": "A Social Media Platform for Artistic Mathematicians!",
+    "description": "Get inspired and make your own!",
+    "built-with": [
+      "next.js",
+      "react",
+      "sqlite",
+      "tailwind"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/HenryNerd/Graph-4M"
+    ],
+    "results": "Did Not Place"
+  },
+  "108": {
+    "url": "https://devpost.com/software/focusmate-j1fwt2",
+    "title": "FocusMate",
+    "tagline": "Make productivity fun. Motivate your next generational lock-in with Bonus Points and Badges.",
+    "description": "landing page leaderboards",
+    "built-with": [
+      "html",
+      "javascript",
+      "openai"
+    ],
+    "video-link": "https://www.youtube.com/embed/_bDibaqiO5g?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/Stevie169/FocusMate"
+    ],
+    "results": "Did Not Place"
+  },
+  "109": {
+    "url": "https://devpost.com/software/6g-conceptual-simulator",
+    "title": "6G Conceptual Simulator",
+    "tagline": "We are modelling a mini-6G network across virtual servers hosted locally. We will use network slicing to spread bandwidth across servers and use AI to dynamically load balance based on traffic.",
+    "description": "Capture of training accuracy as it approaches target accuracy.",
+    "built-with": [
+      "docker",
+      "github",
+      "html",
+      "javascript",
+      "json",
+      "mqtt",
+      "python",
+      "pytorch",
+      "socket"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://docs.google.com/presentation/d/1BTE6jCXAfFhlQvrgbyaMar0Fsd64Zx6lyi2rTiKGWxU/edit?usp=sharing",
+      "https://github.com/westernmonkey/MadHacks-2025"
+    ],
+    "results": "Did Not Place"
+  },
+  "110": {
+    "url": "https://devpost.com/software/6-7x-quantum-advantage",
+    "title": "6-7X Quantum Advantage",
+    "tagline": "A recent attempt, https://futuretech.mit.edu/quantum-economic-advantage-calculator, to forecast a paradigm shift in compute, appears to bake the cake for us; this project revamps the model parameters.",
+    "description": "",
+    "built-with": [
+      "google-docs"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://docs.google.com/document/d/e/2PACX-1vRznPfe1BZlBFTdMWqrIR8G1du47F23CjtySE8DjjEJhnbb8sdPJj3J38-81q0hvLfo1ecv-ls4pAG-/pub"
+    ],
+    "results": "Did Not Place"
+  },
+  "111": {
+    "url": "https://devpost.com/software/tbd-qkv27f",
+    "title": "MindMerge",
+    "tagline": "The collaborative whiteboard that follows your team through thick and thin.",
+    "description": "The app in action",
+    "built-with": [
+      "bun",
+      "css",
+      "iroh",
+      "javascript",
+      "networking",
+      "p2p",
+      "rust",
+      "tauri"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/MysteryCoder456/madhacks_2025"
+    ],
+    "results": "Did Not Place"
+  },
+  "112": {
+    "url": "https://devpost.com/software/budget-besties",
+    "title": "Budget Besties",
+    "tagline": "A short game about making financial decisions! Also dating...?",
+    "description": "InspirationWe were inspired by both budgeting apps and dating sims. Having a personal app that can track your spending is useful- by adding interesting characters, we can make it fun and engaging for the college-age audience we are trying to target.What it doesWe made a dating simulator that motivates players to invest in themselves. By spending their money wisely, the player can build relationships with the in-game characters. Additionally, the game gives them information on good investment habits.How we built itWe built it in Unity Engine through C# scripts, and the art assets are done through websites like Piskel.Challenges we ran intoThe biggest challenge we faced was the integration of code between group members. When we merged our code together, we faced a few bugs. Through collaboration and conversation, we were able to detangle these bugs, but the debugging process took a few hours.Accomplishments that we're proud ofWe were able to compile a playable product within limited time frame. We were also able to research budgeting plans, like the 50/30/20 method.What we learnedWe learned to access and manipulate external text files in unity. We also learned how to apply string handling to establish a dialogue system that reads text files and inputs the text as dialogue.What's next for Budget BestiesWe plan to implement a more personalized experience for the user using AI systems and direct integration of the game into a banking app. With direct integration, the game could be directly linked to a person's spending. From there, we were planning on introducing an AI system that could directly address the user and give them budgeting support.",
+    "built-with": [
+      "c#",
+      "piskel",
+      "unity"
+    ],
+    "video-link": null,
+    "other-links": [
+      "https://github.com/Brisingr0/Hackathon.git",
+      "https://brisingr01.itch.io/budget-besties"
+    ],
+    "results": "Did Not Place"
+  },
+  "113": {
+    "url": "https://devpost.com/software/mad-hacks_project",
+    "title": "CV Crash Insurance Fraud Detection",
+    "tagline": "An automated insurance fraud detection pipeline that uses NLP and Computer Vision to cross-verify text accident reports against CCTV footage, instantly flagging inconsistencies in time and severity.",
+    "description": "Landing Page!",
+    "built-with": [
+      "fastapi",
+      "opencv",
+      "pydantic",
+      "python",
+      "pytorch",
+      "tesseract",
+      "uvicorn"
+    ],
+    "video-link": "https://www.youtube.com/embed/hWygtJATZ8I?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "other-links": [
+      "https://github.com/rithvik-palepu/mad-hacks-project"
+    ],
+    "results": "Did Not Place"
+  }
+}
