@@ -190,10 +190,10 @@ def save_to_json(data: dict, file_name: str):
   print(f"Data written to /data/{file_name}.json")
 
 if __name__ == "__main__":
-  if len(sys.argv) != 1:
+  if len(sys.argv) != 2:
     print("Expected Behavior: uv run src/main.py <hackathon subdomain>")
   else:
-    hackathon = sys.argv[0]
+    hackathon = sys.argv[1]
     pages = parse_hackathon(hackathon)
     projects = build_project_info(pages)
     save_to_json(projects, hackathon)
