@@ -12,6 +12,9 @@ source .venv/bin/activate
 
 # installing dependencies
 uv pip install -r pyproject.toml
+
+# if needed also run
+uv sync
 ```
 
 ## Running the Script
